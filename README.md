@@ -10,7 +10,9 @@ You have to use python to run this script. Install the requirements with pip ins
 
 Export the flashcards you want from pleco (menu > import/export > export cards). Set the format to text file and character set to simplified, and check 'card definitions' and 'dictionary definitions'. Transfer the exported file to your computer
 
-Then, in this directory run `python3 ./pleco_to_anki <path_to_pleco_file> <deck_name>`. A .apkg file should be generated in this directory and you can install it by opening anki and going to File > Import > select the file
+Then, in this directory run `python3 ./pleco_to_anki <path_to_pleco_file> <deck_name>`. A .apkg file should be generated in the out/ directory and you can install it by opening anki and going to File > Import > select the file
+
+If you add new flashcards and want to update the anki deck, simply run the same command. This time, the deck will only contain new cards, and you can import them in the same way.
 
 ## Problems
 
