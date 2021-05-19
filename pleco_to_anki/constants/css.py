@@ -43,7 +43,7 @@ h2 {
   margin-bottom: 14px;
 }
 
-.type {
+.tags {
   color: #000;
   opacity: 0.2;
   font-size: 12px;

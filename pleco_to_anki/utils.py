@@ -33,16 +33,20 @@ def splice_string(string, start, end, replace):
 
 
 def convert_alphanum_to_pinyin(alphanum):
-    word_pinyin_pattern = r'(^| |\d|-)(?P<main>[a-zA-Z]+?[1-4])'
+    alphanum = alphanum.replace('-', '')
+    word_pinyin_pattern = r'(^| |\d)(?P<main>[a-zA-Z]+?[1-5])'
     while True:
         match = re.search(word_pinyin_pattern, alphanum)
         if match is None:
             break
         s = match.group('main')
         start = match.start('main')
-        if match.group()[0] == '-':
-            start -= 1
         end = match.end('main')
+        if s.endswith('5'):
+            # no sound
+            alphanum = splice_string(alphanum, end - 1, end, ' ')
+            continue
+
         if s[-3:-1] == 'iu':
             alphanum = splice_string(alphanum, start, end, s[:-2] +
                                      alphanum_to_pinyin['u' + s[-1]] + ' ')

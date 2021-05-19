@@ -3,7 +3,7 @@ CARD_FRONT = r'''<span class="very-large center">{chinese}</span>'''
 CARD_BACK = r'''<h1 class="chinese">{chinese}</h1>
 <h2>{pinyin}</h2>
 <div class="divider"></div>
-<span class="type">{type}</span>
+<span class="tags">{tags}</span>
 <ol>
     {definitions}
 </ol>'''

@@ -3,8 +3,11 @@ import re
 from utils import splice_string, convert_alphanum_to_pinyin
 from constants import html_templates
 
+pleco_tags = ['verb', 'adjective', 'noun',
+              'idiom', 'conjunction', 'literary', 'dialect']
+
 chinese_phrase_pattern = '[\u4e00-\u9fff][\u4e00-\u9fff, 。？]+'
-line_pattern = '(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<type>verb|adjective|noun|idiom|conjunction)?(?P<definition_and_examples>.*)'
+line_pattern = f'(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<tags>(({"|".join(pleco_tags)}) )*)(?P<definition_and_examples>.*)'
 single_definition_pattern = ' \d .*?(?= \d |$)'
 pinyin_special_chars = 'āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜ'
 # pinyin_phrase_pattern = f'[a-zA-Z{pinyin_special_chars}, ]*[{pinyin_special_chars}][a-zA-Z]*?'
@@ -82,10 +85,10 @@ class Definition:
 
 class Phrase:
 
-    def __init__(self, chinese: str, pinyin: str, type: str, definitions: list):
+    def __init__(self, chinese: str, pinyin: str, tags: str, definitions: list):
         self.chinese = chinese
         self.pinyin = pinyin
-        self.type = type
+        self.tags = tags
         self.definitions = definitions
 
     @staticmethod
@@ -97,7 +100,7 @@ class Phrase:
         return Phrase(
             match.group('chinese'),
             convert_alphanum_to_pinyin(match.group('pinyin')),
-            match.group('type'),
+            ', '.join(match.group('tags').split()),
             definitions,
         )
 
@@ -106,7 +109,7 @@ class Phrase:
         if ' 1 ' in definition_and_examples_str:
             definitions = []
             for match in re.finditer(single_definition_pattern, definition_and_examples_str):
-                string = match.group(0)[2:]  # remove the number
+                string = match.group(0)[1:]  # remove the number
                 definitions.append(Definition.from_string(string))
         else:
             definitions = [Definition.from_string(definition_and_examples_str)]
@@ -119,7 +122,7 @@ class Phrase:
         return html_templates.CARD_BACK.format(
             chinese=self.chinese,
             pinyin=self.pinyin,
-            type=self.type,
+            tags=self.tags,
             definitions='\n'.join(definition.to_html(i + 1, self.chinese)
                                   for i, definition in enumerate(self.definitions)),
         )
