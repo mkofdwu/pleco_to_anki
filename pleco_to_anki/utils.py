@@ -26,6 +26,7 @@ alphanum_to_pinyin = {
     'ü3': 'ǚ',
     'ü4': 'ǜ',
 }
+link_pattern = r'\d+(?P<chinese>[\u4e00-\u9fff]+).*?'
 
 
 def splice_string(string, start, end, replace):
@@ -33,7 +34,7 @@ def splice_string(string, start, end, replace):
 
 
 def convert_alphanum_to_pinyin(alphanum):
-    alphanum = alphanum.replace('-', '')
+    alphanum = alphanum.replace('-', '').replace('//', '')
     word_pinyin_pattern = r'(^| |\d)(?P<main>[a-zA-Z]+?[1-5])'
     while True:
         match = re.search(word_pinyin_pattern, alphanum)
@@ -54,9 +55,19 @@ def convert_alphanum_to_pinyin(alphanum):
             alphanum = splice_string(alphanum, start, end, s[:-2] +
                                      alphanum_to_pinyin['i' + s[-1]] + ' ')
         else:
-            for vowel in 'aeoiu':
+            for vowel in 'aeoiuü':
                 if vowel in s:
                     alphanum = splice_string(alphanum, start, end, s.replace(
                         vowel, alphanum_to_pinyin[vowel + s[-1]])[:-1] + ' ')
                     break
     return alphanum
+
+
+def remove_links(string):
+    # replace links like 'See ... which produces invalid characters'
+    while True:
+        m = re.search(link_pattern, string)
+        if m is None:
+            break
+        string = splice_string(string, m.start(), m.end(), m.group('chinese'))
+    return string

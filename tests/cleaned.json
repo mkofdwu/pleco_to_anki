@@ -1,0 +1,176 @@
+[
+    {
+        "chinese": "缤纷",
+        "pinyin": "bīn fēn",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "in riotous profusion",
+                "examples": [
+                    {
+                        "chinese_phrase": "五彩缤纷",
+                        "pinyin": "wǔcǎibīnfēn",
+                        "english": "riot of colours; multi-coloured"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "究竟",
+        "pinyin": "jiū jìng",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "outcome; what actually happened",
+                "examples": [
+                    {
+                        "chinese_phrase": "大家都想知道个究竟。",
+                        "pinyin": "Dàjiā dōu xiǎng zhīdao ge jiūjìng.",
+                        "english": "Everybody wants to know what actually happened."
+                    },
+                    {
+                        "chinese_phrase": "不管什么事, 他总爱问个究竟。",
+                        "pinyin": "Bùguǎn shénme shì, tā zǒng ài wèn ge jiūjìng.",
+                        "english": "He always likes to get to the heart of a matter, whatever it may be."
+                    }
+                ]
+            },
+            {
+                    "defn": "[in questions to press for an exact answer] actually; exactly",
+                    "examples": [
+                    {
+                        "chinese_phrase": "明天的会究竟谁去参加？",
+                        "pinyin": "Míngtiān de huì jiūjìng shuí qù cānjiā？",
+                        "english": "So who is actually going to the meeting tomorrow?"
+                    },
+                    {
+                        "chinese_phrase": "你们究竟想要什么？",
+                        "pinyin": "nǐmenjiūjìng xiǎngyào shénme?",
+                        "english": "What exactly do you want?"
+                    },
+                    {
+                        "chinese_phrase": "他究竟上哪儿去了？",
+                        "pinyin": "Tā jiūjìng shàng nǎr qù",
+                        "english": "le？ Where on earth is he?"
+                    },
+                    {
+                        "chinese_phrase": "这究竟是什么意思？",
+                        "pinyin": "Zhè jiūjìng shì shénme yìsi？",
+                        "english": "So whatever does this mean?"
+                    }
+                ]
+            },
+            {
+                "defn": "after all; anyway; finally",
+                "examples": [
+                    {
+                        "chinese_phrase": "他究竟是你弟弟啊。",
+                        "pinyin": "Tā jiūjìng shì nǐ dìdi",
+                        "english": "a. After all, he is your younger brother."
+                    },
+                    {
+                        "chinese_phrase": "他究竟经验丰富, 让他负责这项工作最合适。",
+                        "pinyin": "Tā jiūjìng jīngyàn fēngfù, ràng tā fùzé zhè xiàng gōngzuò zuì héshì.",
+                        "english": "After all, he is very experienced, so he should be put in charge of the job."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "纪律",
+        "pinyin": "jì lü4",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "discipline",
+                "examples": [
+                    {
+                        "chinese_phrase": "纪律松弛",
+                        "pinyin": "jìlǜ sōngchí",
+                        "english": "lax in discipline; undisciplined job performances"
+                    },
+                    {
+                        "chinese_phrase": "纪律严明",
+                        "pinyin": "jìlǜ yánmíng",
+                        "english": "highly disciplined"
+                    },
+                    {
+                        "chinese_phrase": "劳动纪律",
+                        "pinyin": "láodòng jìlǜ",
+                        "english": "labour discipline (or regulations)"
+                    },
+                    {
+                        "chinese_phrase": "遵守纪律",
+                        "pinyin": "zūnshǒu jìlǜ",
+                        "english": "keep (or observe) discipline"
+                    },
+                    {
+                        "chinese_phrase": "无纪律现象",
+                        "pinyin": "wú jìlǜ xiànxiàng",
+                        "english": "indiscipline"
+                    },
+                    {
+                        "chinese_phrase": "加强纪律性",
+                        "pinyin": "Jiāqiáng jìlǜ xìng",
+                        "english": "heighten one’s sense of discipline"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "裕",
+        "pinyin": "yù ",
+        "tags": "verb, literary",
+        "definitions": [
+            {
+                "defn": "enrich; make affluent",
+                "examples": [
+                    {
+                        "chinese_phrase": "富国裕民",
+                        "pinyin": "fùguó yù mín",
+                        "english": "make one’s country and people rich  adjective 1 abundant; plentiful"
+                    },
+                    {
+                        "chinese_phrase": "余裕",
+                        "pinyin": "yúyù",
+                        "english": "well-to-do; comfortably off 2 effortless See"
+                    },
+                    {
+                        "chinese_phrase": "裕如",
+                        "pinyin": "noun (Yù)",
+                        "english": "a surname"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "灰溜溜",
+        "pinyin": "huī liū liū ",
+        "tags": "adjective, colloquial",
+        "definitions": [
+            {
+                "defn": "dull grey",
+                "examples": []
+            },
+            {
+                "defn": "gloomy; dejected; crestfallen",
+                "examples": [
+                    {
+                        "chinese_phrase": "他看起来有点儿灰溜溜的样子。",
+                        "pinyin": "tā kàn qǐlai yǒudiǎnrhuīliūliū de yàngzi.",
+                        "english": "He looked a little crestfallen (or depressed)."
+                    },
+                    {
+                        "chinese_phrase": "别那么灰溜溜的",
+                        "pinyin": "！ bié nàmehuīliūliū",
+                        "english": "de! Cheer up!"
+                    }
+                ]
+            }
+        ]
+    }
+]

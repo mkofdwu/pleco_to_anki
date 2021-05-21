@@ -1,0 +1,3663 @@
+[
+    {
+        "chinese": "﻿缤纷",
+        "pinyin": "bīn fēn ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "in riotous profusion",
+                "examples": [
+                    {
+                        "chinese_phrase": "五彩缤纷",
+                        "pinyin": "wǔcǎibīnfēn",
+                        "english": "riot of colours; multi-coloured"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "苍翠",
+        "pinyin": "cāng cuì ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "(of trees, grass, etc.) green; verdant",
+                "examples": [
+                    {
+                        "chinese_phrase": "山峦苍翠。",
+                        "pinyin": "Shānluán cāngcuì.",
+                        "english": "The hills are verdant."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "湖泊",
+        "pinyin": "hú pō ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "lakes",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "土壤",
+        "pinyin": "tǔ rǎng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "soil",
+                "examples": [
+                    {
+                        "chinese_phrase": "富含腐殖质的土壤",
+                        "pinyin": "Fùhán fǔzhízhì detǔrǎng",
+                        "english": "humus-rich soil"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "褐色",
+        "pinyin": "hè sè ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "brown (colour)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "亚洲",
+        "pinyin": "Yà  Zhōu ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "Asia",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "面积",
+        "pinyin": "miàn jī ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "area",
+                "examples": [
+                    {
+                        "chinese_phrase": "受灾面积",
+                        "pinyin": "shòuzāi miànjī",
+                        "english": "stricken area"
+                    },
+                    {
+                        "chinese_phrase": "棉花种植面积",
+                        "pinyin": "Miánhua zhòngzhí miànjī",
+                        "english": "acreage under cotton"
+                    },
+                    {
+                        "chinese_phrase": "展览会面积为三千平方米。",
+                        "pinyin": "Zhǎnlǎnhuì miànjī wéi sānqiān píngfāngmǐ.",
+                        "english": "The exhibition covers 3,000 square metres of floor space."
+                    },
+                    {
+                        "chinese_phrase": "中国面积约为九百六十万平方公里。",
+                        "pinyin": "Zhōngguó miànjī yuē wéi jiǔbǎi liùshí wàn píngfāng gōnglǐ.",
+                        "english": "The area of China is about 9.6 million square kilometres."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "肥沃",
+        "pinyin": "féi wò ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "(of soil) fertile; rich",
+                "examples": [
+                    {
+                        "chinese_phrase": "这里土地肥沃。",
+                        "pinyin": "Zhèlǐ tǔdì féiwò.",
+                        "english": "The land here is rich and fertile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "粮食",
+        "pinyin": "liáng shi ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "grain; cereals; food",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "广泛",
+        "pinyin": "guǎng fàn ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "broad; extensive; wide-ranging; widespread",
+                "examples": [
+                    {
+                        "chinese_phrase": "广泛的兴趣",
+                        "pinyin": "guǎngfàn de xìngqù",
+                        "english": "wide interests"
+                    },
+                    {
+                        "chinese_phrase": "广泛征求意见",
+                        "pinyin": "guǎngfàn zhēngqiú yìjian",
+                        "english": "solicit opinions from all sides"
+                    },
+                    {
+                        "chinese_phrase": "广泛而深入的影响",
+                        "pinyin": "guǎngfàn ér shēnrù de yǐngxiǎng",
+                        "english": "a widespread and profound influence"
+                    },
+                    {
+                        "chinese_phrase": "双方会谈的内容十分广泛。",
+                        "pinyin": "Shuāngfāng huìtán de nèiróng shífēn guǎngfàn.",
+                        "english": "The two sides discussed a wide range of subjects."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "不一",
+        "pinyin": "bù yī ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "vary; differ",
+                "examples": [
+                    {
+                        "chinese_phrase": "长短不一",
+                        "pinyin": "chángduǎn bùyī",
+                        "english": "differ in length"
+                    },
+                    {
+                        "chinese_phrase": "心口不一",
+                        "pinyin": "xīnkǒubùyī",
+                        "english": "not mean what one says"
+                    },
+                    {
+                        "chinese_phrase": "质量不一",
+                        "pinyin": "Zhìliàng bù yī",
+                        "english": "vary in quality  verb literary [in letters to indicate the deliberate omission of details]"
+                    },
+                    {
+                        "chinese_phrase": "匆此不一",
+                        "pinyin": "Cōng cǐ bùyī",
+                        "english": "without going into details"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "亚欧大陆",
+        "pinyin": "Yà ōu dà lù ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "Eurasian continent",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "元素",
+        "pinyin": "yuán sù ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "element; essential factor",
+                "examples": [
+                    {
+                        "chinese_phrase": "中国元素",
+                        "pinyin": "Zhōngguó yuánsù",
+                        "english": "things or features peculiar to China"
+                    }
+                ]
+            },
+            {
+                "defn": "mathematics chemistry element",
+                "examples": [
+                    {
+                        "chinese_phrase": "微量元素",
+                        "pinyin": "wēiliàngyuánsù",
+                        "english": "trace element"
+                    },
+                    {
+                        "chinese_phrase": "稀有元素",
+                        "pinyin": "xīyǒu yuánsù",
+                        "english": "rare element"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "化学",
+        "pinyin": "huà xué ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "chemistry",
+                "examples": [
+                    {
+                        "chinese_phrase": "化学变化",
+                        "pinyin": "huàxuébiànhuà",
+                        "english": "chemical change"
+                    },
+                    {
+                        "chinese_phrase": "化学性质",
+                        "pinyin": "huàxuéxìngzhì",
+                        "english": "chemical property"
+                    },
+                    {
+                        "chinese_phrase": "理论化学",
+                        "pinyin": "lǐlùn huàxué",
+                        "english": "theoretical chemistry"
+                    },
+                    {
+                        "chinese_phrase": "应用化学",
+                        "pinyin": "Yìngyòng huàxué",
+                        "english": "applied chemistry"
+                    }
+                ]
+            },
+            {
+                "defn": "colloquial celluloid",
+                "examples": [
+                    {
+                        "chinese_phrase": "这把梳子是化学的。",
+                        "pinyin": "Zhè bǎ shūzi shì huàxué",
+                        "english": "de. This comb is made from celluloid."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "凋谢",
+        "pinyin": "diāo xiè ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "wither and fall",
+                "examples": []
+            },
+            {
+                "defn": "euphemistic die of old age",
+                "examples": [
+                    {
+                        "chinese_phrase": "一代文豪, 就此凋谢。",
+                        "pinyin": "yīdài wénháo, jiùcǐ diāoxiè.",
+                        "english": "The literary giant of this generation has left us forever."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "佳肴",
+        "pinyin": "jiā yáo ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "delicacies",
+                "examples": [
+                    {
+                        "chinese_phrase": "美味佳肴",
+                        "pinyin": "Měiwèi jiāyáo",
+                        "english": "delicious food"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "究竟",
+        "pinyin": "jiū jìng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "outcome; what actually happened",
+                "examples": [
+                    {
+                        "chinese_phrase": "大家都想知道个究竟。",
+                        "pinyin": "Dàjiā dōu xiǎng zhīdao ge jiūjìng.",
+                        "english": "Everybody wants to know what actually happened."
+                    },
+                    {
+                        "chinese_phrase": "不管什么事, 他总爱问个究竟。",
+                        "pinyin": "Bùguǎn shénme shì, tā zǒng ài wèn ge jiūjìng.",
+                        "english": "He always likes to get to the heart of a matter, whatever it may be.  adverb 1 [in questions to press for an exact answer] actually; exactly"
+                    },
+                    {
+                        "chinese_phrase": "明天的会究竟谁去参加？",
+                        "pinyin": "Míngtiān de huì jiūjìng shuí qù cānjiā？",
+                        "english": "So who is actually going to the meeting tomorrow?"
+                    },
+                    {
+                        "chinese_phrase": "你们究竟想要什么？",
+                        "pinyin": "nǐmenjiūjìng xiǎngyào shénme?",
+                        "english": "What exactly do you want?"
+                    },
+                    {
+                        "chinese_phrase": "他究竟上哪儿去了？",
+                        "pinyin": "Tā jiūjìng shàng nǎr qù",
+                        "english": "le？ Where on earth is he?"
+                    },
+                    {
+                        "chinese_phrase": "这究竟是什么意思？",
+                        "pinyin": "Zhè jiūjìng shì shénme yìsi？",
+                        "english": "So whatever does this mean? 2 after all; anyway; finally"
+                    },
+                    {
+                        "chinese_phrase": "他究竟是你弟弟啊。",
+                        "pinyin": "Tā jiūjìng shì nǐ dìdi",
+                        "english": "a. After all, he is your younger brother."
+                    },
+                    {
+                        "chinese_phrase": "他究竟经验丰富, 让他负责这项工作最合适。",
+                        "pinyin": "Tā jiūjìng jīngyàn fēngfù, ràng tā fùzé zhè xiàng gōngzuò zuì héshì.",
+                        "english": "After all, he is very experienced, so he should be put in charge of the job."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "耕地",
+        "pinyin": "gēng dì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "cultivated land",
+                "examples": [
+                    {
+                        "chinese_phrase": "耕地面积",
+                        "pinyin": "gēngdì miànjī",
+                        "english": "area under cultivation; cultivated area  verb (-//-) plough; till"
+                    },
+                    {
+                        "chinese_phrase": "耕了两亩地",
+                        "pinyin": "Gēng le liǎng mǔ dì",
+                        "english": "plough two mu of land"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "裕",
+        "pinyin": "yù ",
+        "tags": "verb, literary",
+        "definitions": [
+            {
+                "defn": "enrich; make affluent",
+                "examples": [
+                    {
+                        "chinese_phrase": "富国裕民",
+                        "pinyin": "fùguó yù mín",
+                        "english": "make one’s country and people rich  adjective 1 abundant; plentiful"
+                    },
+                    {
+                        "chinese_phrase": "余裕",
+                        "pinyin": "yúyù",
+                        "english": "well-to-do; comfortably off 2 effortless See"
+                    },
+                    {
+                        "chinese_phrase": "裕如",
+                        "pinyin": "noun (Yù)",
+                        "english": "a surname"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "重逢",
+        "pinyin": "chóng féng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "meet again; have a reunion",
+                "examples": [
+                    {
+                        "chinese_phrase": "旧友重逢",
+                        "pinyin": "jiùyǒu chóngféng",
+                        "english": "reunion of old friends"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "颠沛流离",
+        "pinyin": "diān pèi liú lí ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "drift from place to place, homeless and miserable; wander about in a desperate plight; lead a vagabond life; vagrant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "有机",
+        "pinyin": "yǒu jī ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "chemistry organic",
+                "examples": [
+                    {
+                        "chinese_phrase": "有机酸",
+                        "pinyin": "Yǒujī suān",
+                        "english": "organic acid"
+                    },
+                    {
+                        "chinese_phrase": "有机盐",
+                        "pinyin": "yǒujīyán",
+                        "english": "organic salt"
+                    }
+                ]
+            },
+            {
+                "defn": "organic; intrinsic",
+                "examples": [
+                    {
+                        "chinese_phrase": "有机整体",
+                        "pinyin": "yǒujī zhěngtǐ",
+                        "english": "organic whole"
+                    },
+                    {
+                        "chinese_phrase": "有机的组成部分",
+                        "pinyin": "yǒujī de zǔchéng bùfen",
+                        "english": "organic (or component) part"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "饥饿",
+        "pinyin": "jī è ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "hungry; starved",
+                "examples": [
+                    {
+                        "chinese_phrase": "挣扎在饥饿线上",
+                        "pinyin": "Zhēngzhá zài jī'è xiàn shàng",
+                        "english": "struggling along on the verge of starvation"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "排泄",
+        "pinyin": "pái xiè ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "drain rainwater, waste water, etc.",
+                "examples": [
+                    {
+                        "chinese_phrase": "排泄不畅",
+                        "pinyin": "páixiè bù chàng",
+                        "english": "drainage difficulty; poor drainage"
+                    }
+                ]
+            },
+            {
+                "defn": "physiology excrete; discharge",
+                "examples": [
+                    {
+                        "chinese_phrase": "排泄粪便",
+                        "pinyin": "páixiè fènbiàn",
+                        "english": "excrete faeces and urine"
+                    },
+                    {
+                        "chinese_phrase": "皮肤通过毛孔排泄汗液。",
+                        "pinyin": "Pífū tōngguò máokǒng páixiè hànyè.",
+                        "english": "Sweat is excreted through the pores of the skin."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "亿",
+        "pinyin": "yì ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "number 1 hundred million",
+                "examples": [
+                    {
+                        "chinese_phrase": "一亿分之一",
+                        "pinyin": "Yī yì fēnzhī yī",
+                        "english": "one over a hundred million 2 archaic hundred thousand"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "仆人",
+        "pinyin": "pú rén ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "(domestic) servant",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "集市",
+        "pinyin": "jí shì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "country fair; market; marketplace",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "折回",
+        "pinyin": "zhé //hui2",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "turn back (halfway)",
+                "examples": [
+                    null,
+                    {
+                        "chinese_phrase": "折了回来",
+                        "pinyin": ")。 tā gāng zǒuchū bù yuǎn yòu zhéhuí lái",
+                        "english": "le. He hadn’t gone very far when he turned back."
+                    }
+                ]
+            },
+            {
+                "defn": "go back over (one's course)",
+                "examples": [
+                    {
+                        "chinese_phrase": "折回老路",
+                        "pinyin": "zhéhuí lǎolù",
+                        "english": "retrace one’s steps"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "无奈",
+        "pinyin": "wú nài ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "cannot help but; have no alternative; have no choice",
+                "examples": [
+                    {
+                        "chinese_phrase": "他出于无奈, 只得表示同意。",
+                        "pinyin": "Tā chūyú wúnài, zhǐdé biǎoshì tóngyì.",
+                        "english": "He had no choice but to agree.  conjunction literary but; however"
+                    },
+                    {
+                        "chinese_phrase": "他本想前来, 无奈临时有会, 未来成。",
+                        "pinyin": "Tā běn xiǎng qiánlái, wúnài línshí yǒu huì, wèilái chéng.",
+                        "english": "He meant to come, but was prevented by an unexpected meeting."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "之际",
+        "pinyin": "zhī jì ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "during",
+                "examples": []
+            },
+            {
+                "defn": "at the time of",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "坚果",
+        "pinyin": "jiān guǒ ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "botany nut",
+                "examples": [
+                    {
+                        "chinese_phrase": "坚果仁",
+                        "pinyin": "jiānguǒ rén",
+                        "english": "nutmeat"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "诡",
+        "pinyin": "guǐ ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "deceitful; tricky; cunning See",
+                "examples": [
+                    null
+                ]
+            },
+            {
+                "defn": "literary weird; eerie",
+                "examples": [
+                    {
+                        "chinese_phrase": "诡道",
+                        "pinyin": "guǐdào",
+                        "english": "perverse ways; strange behaviour"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "别具",
+        "pinyin": "bié jù ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "to have unique (talent, insight etc)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "渗入",
+        "pinyin": "shèn rù ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "permeate; seep into",
+                "examples": [
+                    {
+                        "chinese_phrase": "渗入地下",
+                        "pinyin": "shènrù dìxia",
+                        "english": "permeate the ground; seep into the ground"
+                    }
+                ]
+            },
+            {
+                "defn": "pejorative (of influence, etc.) penetrate; infiltrate",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "忽略",
+        "pinyin": "hū lüe4",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "neglect; overlook; lose sight of",
+                "examples": [
+                    {
+                        "chinese_phrase": "我们忽略了一个重要细节。",
+                        "pinyin": "wǒmenhūlüè le yī ge zhòngyào xìjié.",
+                        "english": "We overlooked an important detail."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "凭",
+        "pinyin": "píng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "evidence; proof",
+                "examples": [
+                    {
+                        "chinese_phrase": "文凭",
+                        "pinyin": "wénpíng",
+                        "english": "diploma"
+                    },
+                    {
+                        "chinese_phrase": "口说无凭。",
+                        "pinyin": "Kǒushuōwúpíng.",
+                        "english": "Verbal statements are no guarantee.  verb lean on; lean against"
+                    },
+                    {
+                        "chinese_phrase": "凭几",
+                        "pinyin": "píngjī",
+                        "english": "lean on a small table  preposition 1 go by; base on; take as the basis"
+                    },
+                    {
+                        "chinese_phrase": "凭良心说",
+                        "pinyin": "píng liángxīn shuō",
+                        "english": "in all fairness"
+                    },
+                    {
+                        "chinese_phrase": "凭票付款",
+                        "pinyin": "Píng piào fùkuǎn",
+                        "english": "payable to bearer"
+                    },
+                    {
+                        "chinese_phrase": "凭票入场。",
+                        "pinyin": "Píngpiàorùchǎng.",
+                        "english": "Admission by ticket only."
+                    },
+                    {
+                        "chinese_phrase": "你凭什么得出这个结论？",
+                        "pinyin": "Nǐ píng shénme déchū zhège jiélùn？",
+                        "english": "What’s the basis for your conclusion?"
+                    },
+                    {
+                        "chinese_phrase": "你不能凭他嘴上说的就算数。",
+                        "pinyin": "Nǐ bù néng píng tā zuǐ shàng shuō de jiù suànshù.",
+                        "english": "You can’t take him at his word. 2 rely on; depend on"
+                    },
+                    {
+                        "chinese_phrase": "凭我们的双手重建家园",
+                        "pinyin": "píng wǒmen de shuāngshǒu chóngjiàn jiāyuán",
+                        "english": "rebuild our home town with our own hands  conjunction no matter (what, how, etc.)"
+                    },
+                    {
+                        "chinese_phrase": "凭你跑多快, 我也赶得上。",
+                        "pinyin": "Píng nǐ pǎo duō kuài, wǒ yě gǎn de shàng.",
+                        "english": "I’ll catch up with you no matter how fast you run."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "隐含",
+        "pinyin": "yǐn hán ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "imply",
+                "examples": [
+                    {
+                        "chinese_phrase": "他的话里隐含着一丝失望。",
+                        "pinyin": "tā dehuà lǐ yǐnhán zhe yī sī shīwàng.",
+                        "english": "There was a faint disappointment in his words."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "叫嚷",
+        "pinyin": "jiào rǎng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "shout; howl; clamour",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "受益匪浅",
+        "pinyin": "shòu yì fěi qiǎn ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "to benefit (from)",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "啧啧称奇",
+        "pinyin": "zé zé chēng qí ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "to click one's tongue in wonder (idiom)",
+                "examples": []
+            },
+            {
+                "defn": "to be astonished",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "领口",
+        "pinyin": "lǐng kǒu ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "collarband; neckband",
+                "examples": [
+                    {
+                        "chinese_phrase": "这件毛衣领口太小。",
+                        "pinyin": "Zhè jiàn máoyī lǐngkǒu tài xiǎo.",
+                        "english": "The neckband of the sweater is too small."
+                    }
+                ]
+            },
+            {
+                "defn": "place where the two ends of a collar meet",
+                "examples": [
+                    {
+                        "chinese_phrase": "她领口上别着一个宝石别针。",
+                        "pinyin": "Tā lǐngkǒu shàng bié zhe yī ge bǎoshí biézhēn.",
+                        "english": "She wore a jewelled brooch at the neck of her dress."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "本身",
+        "pinyin": "běn shēn ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "pronoun itself; in itself",
+                "examples": [
+                    {
+                        "chinese_phrase": "条约本身",
+                        "pinyin": "Tiáoyuē běnshēn",
+                        "english": "the treaty per se"
+                    },
+                    {
+                        "chinese_phrase": "院子里杂草丛生, 但房子本身完好无损。",
+                        "pinyin": "Yuànzi lǐ zácǎocóngshēng, dàn fángzi běnshēn wánhǎowúsǔn.",
+                        "english": "The yard is full of weeds, but the house itself is in good condition."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "精于",
+        "pinyin": "jīng yú ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "proficient in; keen on",
+                "examples": [
+                    {
+                        "chinese_phrase": "精于此道",
+                        "pinyin": "jīngyúcǐdào",
+                        "english": "well-versed in this; highly proficient in this"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "裁缝",
+        "pinyin": "cái féng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "make (a dress); tailor",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "偕",
+        "pinyin": "xié ",
+        "tags": "verb, literary",
+        "definitions": [
+            {
+                "defn": "be together with; accompany",
+                "examples": [
+                    {
+                        "chinese_phrase": "偕夫人一同赴宴",
+                        "pinyin": "xié fūren yītóng fùyàn",
+                        "english": "attend a banquet in the company of one’s wife"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "诞生",
+        "pinyin": "dàn shēng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "be born; come into being; emerge",
+                "examples": [
+                    {
+                        "chinese_phrase": "新中国的诞生",
+                        "pinyin": "xīn Zhōngguó de dànshēng",
+                        "english": "the birth of New China"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "力求",
+        "pinyin": "lì qiú ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "make every effort to; do one's best to; strive to",
+                "examples": [
+                    {
+                        "chinese_phrase": "力求上进",
+                        "pinyin": "lìqiúshàngjìn",
+                        "english": "strive vigorously to improve"
+                    },
+                    {
+                        "chinese_phrase": "力求完美",
+                        "pinyin": "lìqiú wánměi",
+                        "english": "strive for perfection"
+                    },
+                    {
+                        "chinese_phrase": "文字力求精练",
+                        "pinyin": "Wénzì lìqiú jīngliàn.",
+                        "english": "strive to be concise in writing"
+                    },
+                    {
+                        "chinese_phrase": "力求取得一致意见",
+                        "pinyin": "lìqiú qǔdé yīzhì yìjian",
+                        "english": "do one’s utmost to reach a consensus"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "尽善尽美",
+        "pinyin": "jìn shàn jìn měi ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "perfect; flawless",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "沉浸",
+        "pinyin": "chén jìn ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "be immersed in; be steeped in; be permeated with",
+                "examples": [
+                    {
+                        "chinese_phrase": "沉浸在幸福的回忆中",
+                        "pinyin": "Chénjìn zài xìngfú de huíyì zhōng",
+                        "english": "be immersed in happy memories"
+                    },
+                    {
+                        "chinese_phrase": "整个首都沉浸在节日的欢乐气氛中。",
+                        "pinyin": "Zhěnggè shǒudū chénjìn zài jiérì de huānlè qìfēn zhōng.",
+                        "english": "The entire capital was permeated with a festive atmosphere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "毯子",
+        "pinyin": "tǎn zi ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "blanket",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "何况",
+        "pinyin": "hé kuàng ",
+        "tags": "conjunction",
+        "definitions": [
+            {
+                "defn": "much less; let alone",
+                "examples": [
+                    {
+                        "chinese_phrase": "这根木头连小伙子都抬不动, 何况老人呢。",
+                        "pinyin": "Zhè gēn mùtou lián xiǎohuǒzi dōu tái bù dòng, hékuàng lǎorén",
+                        "english": "ne？ The log is too heavy even for a young fellow to lift, let alone an old man."
+                    }
+                ]
+            },
+            {
+                "defn": "moreover; besides; in addition",
+                "examples": [
+                    {
+                        "chinese_phrase": "我不喜欢那所房子, 何况价钱也太高。",
+                        "pinyin": "Wǒ bù xǐhuan nà suǒ fángzi, hékuàng jiàqian yě tài gāo.",
+                        "english": "I don’t like the house. Moreover, the price is too high."
+                    },
+                    {
+                        "chinese_phrase": "这鞋太贵, 何况尺码也太小。",
+                        "pinyin": "Zhè xié tài guì, hékuàng chǐmǎ yě tài xiǎo.",
+                        "english": "These shoes are expensive — besides, they’re too small."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "奕奕",
+        "pinyin": "yì yì ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "grand; great",
+                "examples": [
+                    null,
+                    {
+                        "chinese_phrase": "诗经",
+                        "pinyin": "》) yìyì liáng shān. (《Shījīng》)",
+                        "english": "How great is Mount Liang!"
+                    }
+                ]
+            },
+            {
+                "defn": "radiating power and vitality",
+                "examples": [
+                    {
+                        "chinese_phrase": "神采奕奕",
+                        "pinyin": "shéncǎiyìyì",
+                        "english": "glowing with health and radiating vigour"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "延伸",
+        "pinyin": "yán shēn ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "extend; stretch; elongate",
+                "examples": [
+                    {
+                        "chinese_phrase": "铁路一直延伸到海边。",
+                        "pinyin": "Tiělù yīzhí yánshēn dào hǎibiān.",
+                        "english": "The railway line stretches right to the coast."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "坊间",
+        "pinyin": "fāng jiān ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "in the streets (esp. with reference to the bookshops in the past)",
+                "examples": [
+                    {
+                        "chinese_phrase": "此书坊间少见。",
+                        "pinyin": "Cǐ shū fāng jiān shǎojiàn.",
+                        "english": "This book is rarely seen in the bookshops."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "歧途",
+        "pinyin": "qí tú ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "wrong road",
+                "examples": [
+                    {
+                        "chinese_phrase": "误入歧途",
+                        "pinyin": "wùrùqítú",
+                        "english": "go astray"
+                    },
+                    {
+                        "chinese_phrase": "被引入歧途",
+                        "pinyin": "bèi yǐnrù qítú",
+                        "english": "be led astray"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "哲学家",
+        "pinyin": "zhé xué jiā ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "philosopher",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "消遣",
+        "pinyin": "xiāo qiǎn ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "diversion; pastime; hobby",
+                "examples": [
+                    {
+                        "chinese_phrase": "下棋是我喜爱的一种消遣。",
+                        "pinyin": "Xiàqí shì wǒ xǐ'ài de yī zhǒng xiāoqiǎn.",
+                        "english": "Playing chess is one of my favourite pastimes.  verb divert oneself; while away the time"
+                    },
+                    {
+                        "chinese_phrase": "在火车上打扑克消遣",
+                        "pinyin": "Zài huǒchē shàng dǎ pūkè xiāoqiǎn",
+                        "english": "beguile the train journey by playing cards"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "伦理",
+        "pinyin": "lún lǐ ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "ethics; moral principles",
+                "examples": [
+                    {
+                        "chinese_phrase": "伦理观念",
+                        "pinyin": "lúnlǐ guānniàn",
+                        "english": "concept of ethics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "修养",
+        "pinyin": "xiū yǎng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "accomplishment; training; mastery",
+                "examples": [
+                    {
+                        "chinese_phrase": "哲学修养",
+                        "pinyin": "zhéxué xiūyǎng",
+                        "english": "one’s understanding of philosophy"
+                    },
+                    {
+                        "chinese_phrase": "有艺术修养",
+                        "pinyin": "yǒu yìshù xiūyǎng",
+                        "english": "be artistically accomplished"
+                    },
+                    {
+                        "chinese_phrase": "在文学上很有修养",
+                        "pinyin": "zài wénxué shàng hěn yǒu xiūyǎng",
+                        "english": "be widely read in literature"
+                    }
+                ]
+            },
+            {
+                "defn": "self-cultivation; self-possession",
+                "examples": [
+                    {
+                        "chinese_phrase": "这人很有修养。",
+                        "pinyin": "zhè rén hěn yǒu xiūyǎng.",
+                        "english": "The man is really self-possessed."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "私奔",
+        "pinyin": "sī bēn ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "elope",
+                "examples": [
+                    {
+                        "chinese_phrase": "她与情人私奔了。",
+                        "pinyin": "tā yǔ qíngrén sībēn",
+                        "english": "le. She eloped with her lover."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "白皙",
+        "pinyin": "bái xī ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "(of skin) fair and clear",
+                "examples": [
+                    {
+                        "chinese_phrase": "皮肤白皙",
+                        "pinyin": "Pífū bái xī",
+                        "english": "have a fair complexion; be fair-complexioned"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "蜷曲",
+        "pinyin": "quán qū ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "curl; coil; twist",
+                "examples": [
+                    {
+                        "chinese_phrase": "一条蛇在草丛里蜷曲着。",
+                        "pinyin": "Yī tiáo shé zài cǎocóng lǐ quánqū",
+                        "english": "zhe. A snake lay coiled in the grass."
+                    },
+                    {
+                        "chinese_phrase": "他把两腿蜷曲起来做了个前滚翻。",
+                        "pinyin": "Tā bǎ liǎng tuǐ quánqū qǐlai zuò le ge qián gǔnfān.",
+                        "english": "Drawing up his knees against his chest, he did a forward roll."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "怯生生",
+        "pinyin": "qiè shēng shēng ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "in a timid manner",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "抽搐",
+        "pinyin": "chōu chù ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "twitch; jerk",
+                "examples": [
+                    {
+                        "chinese_phrase": "那只狗痛苦地抽搐着。",
+                        "pinyin": "nà zhī gǒu tòngkǔ de chōuchù",
+                        "english": "zhe. The dog twitched with pain."
+                    }
+                ]
+            },
+            {
+                "defn": "medicine tic; spasm",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "凄楚",
+        "pinyin": "qī chǔ ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "desolate and miserable",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "恭维",
+        "pinyin": "gōng wei ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "flatter; compliment",
+                "examples": [
+                    {
+                        "chinese_phrase": "我恭维了他几句。",
+                        "pinyin": "Wǒ gōngwei le tā jǐ jù.",
+                        "english": "I said a few words complimenting him."
+                    },
+                    {
+                        "chinese_phrase": "他那几句英语, 我实在不敢恭维。",
+                        "pinyin": "Tā nà jǐ jù Yīngyǔ, wǒ shízài bù gǎn gōngwei.",
+                        "english": "I can’t compliment him on his English."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "凝固",
+        "pinyin": "níng gù ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "solidify",
+                "examples": [
+                    {
+                        "chinese_phrase": "蛋白质遇热会凝固。",
+                        "pinyin": "Dànbáizhì yù rè huì nínggù.",
+                        "english": "Protein turns solid when heated."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "怔怔",
+        "pinyin": "zhèng zhèng ",
+        "tags": "adjective, dialect",
+        "definitions": [
+            {
+                "defn": "staring blankly; dazed; in a trance",
+                "examples": [
+                    {
+                        "chinese_phrase": "怔怔地站着",
+                        "pinyin": "Zhèng zhèng de zhànzhe",
+                        "english": "stand there as if in a trance; stand there staring blankly"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "闪烁",
+        "pinyin": "shǎn shuò ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "twinkle; scintillate; glimmer; glisten",
+                "examples": [
+                    {
+                        "chinese_phrase": "闪烁的光标",
+                        "pinyin": "shǎnshuò de guāngbiāo",
+                        "english": "flashing cursor"
+                    },
+                    {
+                        "chinese_phrase": "远处闪烁着灯光。",
+                        "pinyin": "Yuǎnchù shǎnshuò zhe dēngguāng.",
+                        "english": "Lights glimmered in the distance."
+                    },
+                    {
+                        "chinese_phrase": "她的眼睛里闪烁着喜悦的泪花。",
+                        "pinyin": "Tā de yǎnjing lǐ shǎnshuò zhe xǐyuè de lèihuā.",
+                        "english": "Her eyes glistened with tears of joy."
+                    }
+                ]
+            },
+            {
+                "defn": "be evasive; be vague; be noncommittal",
+                "examples": [
+                    {
+                        "chinese_phrase": "他闪闪烁烁, 不做肯定的答复。",
+                        "pinyin": "Tā shǎnshǎnshuòshuò, bù zuò kěndìng de dáfù.",
+                        "english": "He hummed and hawed, giving no definite reply. or He was evasive and noncommittal."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "惊愕",
+        "pinyin": "jīng è ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "stunned; stupefied",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "小儿麻痹症",
+        "pinyin": "xiǎo ér  má bì zhèng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "medicine infantile paralysis; poliomyelitis; polio",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "肝炎",
+        "pinyin": "gān yán ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "medicine hepatitis",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "残废",
+        "pinyin": "cán fèi ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "disabled person; cripple",
+                "examples": [
+                    {
+                        "chinese_phrase": "那次事故使他成了个残废。",
+                        "pinyin": "Nàcì shìgù shǐ tā chéngle ge cánfèi.",
+                        "english": "The accident crippled him.  verb become disabled; be crippled"
+                    },
+                    {
+                        "chinese_phrase": "他的双腿去年就残废了。",
+                        "pinyin": "Tā de shuāng tuǐ qùnián jiù cánfèi",
+                        "english": "le. He lost the use of both legs last year."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "愚弄",
+        "pinyin": "yú nòng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "deceive; hoodwink; make a fool of; dupe",
+                "examples": [
+                    {
+                        "chinese_phrase": "愚弄公众",
+                        "pinyin": "yúnòng gōngzhòng",
+                        "english": "fool the public"
+                    },
+                    {
+                        "chinese_phrase": "被愚弄",
+                        "pinyin": "bèi yúnòng",
+                        "english": "be fooled; be the fool (of); be taken in"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "瘟疫",
+        "pinyin": "wēn yì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "pestilence",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "竭力",
+        "pinyin": "jié lì ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "do one's utmost; use every ounce of one's energy; try by every possible means",
+                "examples": [
+                    {
+                        "chinese_phrase": "竭力反对",
+                        "pinyin": "jiélì fǎnduì",
+                        "english": "actively oppose"
+                    },
+                    {
+                        "chinese_phrase": "竭力鼓吹",
+                        "pinyin": "jiélì gǔchuī",
+                        "english": "argue strenuously for; energetically advocate"
+                    },
+                    {
+                        "chinese_phrase": "竭力抗拒",
+                        "pinyin": "jiélì kàngjù",
+                        "english": "stubbornly resist"
+                    },
+                    {
+                        "chinese_phrase": "竭力支持",
+                        "pinyin": "jiélì zhīchí",
+                        "english": "give complete support"
+                    },
+                    {
+                        "chinese_phrase": "我将竭力帮助你。",
+                        "pinyin": "Wǒ jiāng jiélì bāngzhù nǐ.",
+                        "english": "I’ll do my utmost to assist you."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "掩饰",
+        "pinyin": "yǎn shì ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "cover up; plaster over; gloss over; mask; conceal",
+                "examples": [
+                    {
+                        "chinese_phrase": "掩饰错误",
+                        "pinyin": "Yǎnshì cuòwù",
+                        "english": "gloss over (or cover up) one’s mistakes"
+                    },
+                    {
+                        "chinese_phrase": "掩饰真实的意图",
+                        "pinyin": "yǎnshì zhēnshí de yìtú",
+                        "english": "conceal one’s true intentions"
+                    },
+                    {
+                        "chinese_phrase": "掩饰不住内心的恐慌",
+                        "pinyin": "yǎnshì bù zhù nèixīn de kǒnghuāng",
+                        "english": "be unable to hide (or conceal) one’s fears"
+                    },
+                    {
+                        "chinese_phrase": "毫不掩饰自己的感情",
+                        "pinyin": "háobù yǎnshì zìjǐ de gǎnqíng",
+                        "english": "make no secret of one’s feelings"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "黯然",
+        "pinyin": "àn rán ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "dark and dull",
+                "examples": [
+                    {
+                        "chinese_phrase": "她的双眼黯然无光。",
+                        "pinyin": "Tā de shuāngyǎn ànránwúguāng.",
+                        "english": "Her eyes looked dull."
+                    }
+                ]
+            },
+            {
+                "defn": "dejected; low-spirited; downcast",
+                "examples": [
+                    {
+                        "chinese_phrase": "神色黯然",
+                        "pinyin": "Shénsè ànrán",
+                        "english": "appear dejected"
+                    },
+                    {
+                        "chinese_phrase": "听到那消息, 她不禁黯然泪下。",
+                        "pinyin": "Tīng dào nà xiāoxi, tā bù jìn ànrán lèi xià.",
+                        "english": "The distressing news made her cry."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "渴求",
+        "pinyin": "kě qiú ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "desire; crave for; thirst (or hunger) for; long for",
+                "examples": [
+                    {
+                        "chinese_phrase": "渴求知识",
+                        "pinyin": "kěqiú zhīshi",
+                        "english": "thirst for knowledge"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "负疚",
+        "pinyin": "fù jiù ",
+        "tags": "verb, literary",
+        "definitions": [
+            {
+                "defn": "feel apologetic; have a guilty conscience",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "依稀",
+        "pinyin": "yī xī ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "vaguely; dimly",
+                "examples": [
+                    {
+                        "chinese_phrase": "依稀记得",
+                        "pinyin": "yīxī jìde",
+                        "english": "vaguely remember"
+                    },
+                    {
+                        "chinese_phrase": "依稀可见",
+                        "pinyin": "yīxī kějiàn",
+                        "english": "faintly (or dimly) visible"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "啜泣",
+        "pinyin": "chuò qì ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "sob",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "寂静",
+        "pinyin": "jì jìng ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "quiet; still; silent (opp.",
+                "examples": [
+                    null,
+                    {
+                        "chinese_phrase": "寂静无哗",
+                        "pinyin": "jìjìng wú huá",
+                        "english": "silent and still; perfectly quiet"
+                    },
+                    {
+                        "chinese_phrase": "在寂静的深夜里",
+                        "pinyin": "zài jìjìng de shēnyè lǐ",
+                        "english": "in the still of the night"
+                    },
+                    {
+                        "chinese_phrase": "寂静的山村顿时沸腾起来。",
+                        "pinyin": "Jìjìngde shāncūn dùnshí fèiténg qǐlai.",
+                        "english": "The quiet mountain village suddenly became astir."
+                    },
+                    {
+                        "chinese_phrase": "一阵阵号子声, 打破了森林的寂静。",
+                        "pinyin": "Yī zhènzhèn hàozi shēng, dǎpò le sēnlín de jìjìng.",
+                        "english": "Work songs broke the silence of the forest."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "尚且",
+        "pinyin": "shàng qiě ",
+        "tags": "conjunction, literary",
+        "definitions": [
+            {
+                "defn": "[in the negative, followed by a negative with even greater force of denial] (not) even... (let alone...)",
+                "examples": [
+                    {
+                        "chinese_phrase": "你尚且不行, 更不必说我。",
+                        "pinyin": "Nǐ shàngqiě bùxíng, gèng bùbì shuō wǒ.",
+                        "english": "If you can’t do it, how can I?"
+                    },
+                    {
+                        "chinese_phrase": "大人尚且举不起来, 何况小孩子。",
+                        "pinyin": "Dàren shàngqiě jǔ bù qǐlai, hékuàng xiǎoháizi.",
+                        "english": "Even grown-ups can’t lift it, to say nothing of children."
+                    },
+                    {
+                        "chinese_phrase": "她站尚且站不起来, 更谈不上走路了。",
+                        "pinyin": "Tā zhàn shàngqiě zhàn bù qǐlai, gèng tán bù shàng zǒulù",
+                        "english": "le. She can’t even stand on her feet, let alone walk."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "毕竟",
+        "pinyin": "bì jìng ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "adverb after all; all in all; when all is said and done; in the final analysis",
+                "examples": [
+                    {
+                        "chinese_phrase": "同成绩相比, 她的缺点毕竟是第二位的。",
+                        "pinyin": "tóng chéngjì xiāngbǐ, tā de quēdiǎn bìjìng shì dì-èr wèi",
+                        "english": "de. Compared with her achievements, her shortcomings are, after all, only secondary."
+                    },
+                    {
+                        "chinese_phrase": "这部书虽然有缺页, 但毕竟是珍本。",
+                        "pinyin": "Zhè bù shū suīrán yǒu quē yè, dàn bìjìng shì zhēnběn.",
+                        "english": "This book is a rare edition, even though several pages are missing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "绑",
+        "pinyin": "bǎng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "bind; tie; truss up",
+                "examples": [
+                    {
+                        "chinese_phrase": "绑个三脚架",
+                        "pinyin": "bǎng ge sānjiǎojià",
+                        "english": "tie three sticks to make a tripod"
+                    },
+                    {
+                        "chinese_phrase": "绑在柱子上",
+                        "pinyin": "bǎng zài zhùzi shàng",
+                        "english": "bind (sb. or sth.) to a pillar"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "明智",
+        "pinyin": "míng zhì ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "sensible; sagacious; wise",
+                "examples": [
+                    {
+                        "chinese_phrase": "表现出明智的态度",
+                        "pinyin": "biǎoxiàn chū míngzhì de tàidu",
+                        "english": "show a sensible attitude"
+                    },
+                    {
+                        "chinese_phrase": "他这样决定是明智的。",
+                        "pinyin": "Tā zhèyàng juédìng shì míngzhì",
+                        "english": "de. It was wise of him to make that decision. or This was a wise decision of his."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "殊不知",
+        "pinyin": "shū bù zhī ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "often literary little imagine; hardly realize; who would know that …",
+                "examples": [
+                    {
+                        "chinese_phrase": "我以为他还在北京, 殊不知他已经走了。",
+                        "pinyin": "Wǒ yǐwéi tā hái zài Běijīng, shūbùzhī tā yǐjing zǒu",
+                        "english": "le. I thought he was still in Beijing. I never dreamt he had already left."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "怨天尤人",
+        "pinyin": "yuàn tiān yóu rén ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "blame god and man—blame everyone and everything but oneself",
+                "examples": [
+                    {
+                        "chinese_phrase": "唉声叹气, 怨天尤人",
+                        "pinyin": "āishēngtànqì, yuàntiānyóurén",
+                        "english": "groaning and sighing and cursing fate"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "煞费苦心",
+        "pinyin": "shà fèi kǔ xīn ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "cudgel (or rack) one's brains; take great pains",
+                "examples": [
+                    {
+                        "chinese_phrase": "煞费苦心地寻找借口",
+                        "pinyin": "shàfèi kǔxīn de xúnzhǎo jièkǒu",
+                        "english": "cudgel one’s brains to find an excuse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "疫情",
+        "pinyin": "yì qíng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "information about and appraisal of an epidemic; epidemic situation",
+                "examples": [
+                    {
+                        "chinese_phrase": "报告疫情",
+                        "pinyin": "bàogào yìqíng",
+                        "english": "report epidemic diseases"
+                    },
+                    {
+                        "chinese_phrase": "疫情已得到控制。",
+                        "pinyin": "yìqíng yǐ dédào kòngzhì.",
+                        "english": "The epidemic has been brought under control."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "疫苗",
+        "pinyin": "yì miáo ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "vaccine",
+                "examples": [
+                    {
+                        "chinese_phrase": "疫苗接种",
+                        "pinyin": "yì miáo jiē zhòng",
+                        "english": "vaccination"
+                    },
+                    {
+                        "chinese_phrase": "乙肝疫苗",
+                        "pinyin": "yǐgān yìmiáo",
+                        "english": "hepatitis B virus vaccine"
+                    },
+                    {
+                        "chinese_phrase": "给孩子接种疫苗以预防天花",
+                        "pinyin": "gěi háizi jiēzhòng yìmiáo yǐ yùfáng tiānhuā",
+                        "english": "vaccinate the child against smallpox"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "循规蹈矩",
+        "pinyin": "xún guī dǎo jǔ ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "observe rules, obey orders, etc. docilely; conform to convention; toe the line",
+                "examples": [
+                    {
+                        "chinese_phrase": "学生们都很循规蹈矩。",
+                        "pinyin": "Xuésheng men dōu hěn xúnguīdǎojǔ.",
+                        "english": "All the students conscientiously obeyed the rules of the school."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "误人子弟",
+        "pinyin": "wù rén zǐ dì ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "(of a teacher, textbook, etc.) harm the younger generation; lead young people astray",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "蝇",
+        "pinyin": "yíng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "fly; housefly",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "橄榄球",
+        "pinyin": "gǎn lǎn qiú ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "sports rugby; American football",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "纪律",
+        "pinyin": "jì lü4",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "discipline",
+                "examples": [
+                    {
+                        "chinese_phrase": "纪律松弛",
+                        "pinyin": "jìlǜ sōngchí",
+                        "english": "lax in discipline; undisciplined job performances"
+                    },
+                    {
+                        "chinese_phrase": "纪律严明",
+                        "pinyin": "jìlǜ yánmíng",
+                        "english": "highly disciplined"
+                    },
+                    {
+                        "chinese_phrase": "劳动纪律",
+                        "pinyin": "láodòng jìlǜ",
+                        "english": "labour discipline (or regulations)"
+                    },
+                    {
+                        "chinese_phrase": "遵守纪律",
+                        "pinyin": "zūnshǒu jìlǜ",
+                        "english": "keep (or observe) discipline"
+                    },
+                    {
+                        "chinese_phrase": "无纪律现象",
+                        "pinyin": "wú jìlǜ xiànxiàng",
+                        "english": "indiscipline"
+                    },
+                    {
+                        "chinese_phrase": "加强纪律性",
+                        "pinyin": "Jiāqiáng jìlǜ xìng",
+                        "english": "heighten one’s sense of discipline"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "缺席",
+        "pinyin": "quē //xi2",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "absent (from a meeting, etc.) (opp.",
+                "examples": [
+                    null,
+                    {
+                        "chinese_phrase": "缺席者",
+                        "pinyin": "quēxízhě",
+                        "english": "absentee"
+                    },
+                    {
+                        "chinese_phrase": "因事缺席",
+                        "pinyin": "Yīn shì quēxí",
+                        "english": "be absent through being otherwise engaged"
+                    },
+                    {
+                        "chinese_phrase": "他这学期从没缺席过。",
+                        "pinyin": "Tā zhè xuéqī cóng méi quēxí guò.",
+                        "english": "He has never been absent from class this term."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "理念",
+        "pinyin": "lǐ niàn ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "philosophy idea; thought; value; notion",
+                "examples": [
+                    {
+                        "chinese_phrase": "文化理念",
+                        "pinyin": "wénhuà lǐniàn",
+                        "english": "cultural concept"
+                    },
+                    {
+                        "chinese_phrase": "资本经营理念",
+                        "pinyin": "Zīběn jīngyíng lǐniàn",
+                        "english": "capital management idea"
+                    }
+                ]
+            },
+            {
+                "defn": "belief; conviction",
+                "examples": [
+                    {
+                        "chinese_phrase": "人生理念",
+                        "pinyin": "rénshēng lǐniàn",
+                        "english": "one’s belief about life; a view of life"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "历届",
+        "pinyin": "lì jiè ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "all previous (sessions, governments, etc.)",
+                "examples": [
+                    {
+                        "chinese_phrase": "历届内阁",
+                        "pinyin": "lìjiè nèigé",
+                        "english": "successive cabinets"
+                    },
+                    {
+                        "chinese_phrase": "历届毕业生",
+                        "pinyin": "lìjiè bìyèshēng",
+                        "english": "graduates of all previous years"
+                    },
+                    {
+                        "chinese_phrase": "历届全国人民代表大会",
+                        "pinyin": "Lìjiè quánguó rénmín dàibiǎo dàhuì",
+                        "english": "all previous National People’s Congresses"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "传记",
+        "pinyin": "zhuàn jì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "biography",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "鼓吹",
+        "pinyin": "gǔ chuī ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "advocate",
+                "examples": [
+                    {
+                        "chinese_phrase": "鼓吹革命",
+                        "pinyin": "gǔchuī gémìng",
+                        "english": "advocate revolution"
+                    }
+                ]
+            },
+            {
+                "defn": "pejorative preach; advertise; play up",
+                "examples": [
+                    {
+                        "chinese_phrase": "大肆鼓吹",
+                        "pinyin": "dàsì gǔchuī",
+                        "english": "drum up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "扎实",
+        "pinyin": "zhā shi ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "sturdy; strong",
+                "examples": []
+            },
+            {
+                "defn": "solid; sound; down-to-earth",
+                "examples": [
+                    {
+                        "chinese_phrase": "工作很扎实",
+                        "pinyin": "gōngzuò hěn zhāshi",
+                        "english": "do a solid job"
+                    },
+                    {
+                        "chinese_phrase": "扎扎实实地开展技术革新的群众运动",
+                        "pinyin": "zhāzhāshishi de kāizhǎn jìshù géxīn de qúnzhòng yùndòng",
+                        "english": "genuinely encourage the public to take part in technical innovations"
+                    },
+                    {
+                        "chinese_phrase": "这门基础课她学得很扎实。",
+                        "pinyin": "Zhè mén jīchǔkè tā xué de hěn zhāshi.",
+                        "english": "She has a good grasp of this basic course."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "得心应手",
+        "pinyin": "dé xīn yìng shǒu ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "with facility; with high proficiency",
+                "examples": [
+                    {
+                        "chinese_phrase": "他画起马来真可谓得心应手。",
+                        "pinyin": "Tā huà qǐmǎ lái zhēn kěwèi déxīnyìngshǒu.",
+                        "english": "He is in his element when painting horses."
+                    }
+                ]
+            },
+            {
+                "defn": "serviceable; handy",
+                "examples": [
+                    {
+                        "chinese_phrase": "这支笔写起来得心应手。",
+                        "pinyin": "Zhè zhī bǐ xiě qǐlai déxīnyìngshǒu.",
+                        "english": "This pen writes very well."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "恳求",
+        "pinyin": "kěn qiú ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "implore; entreat; beseech",
+                "examples": [
+                    {
+                        "chinese_phrase": "恳求宽恕",
+                        "pinyin": "Kěnqiú kuānshù",
+                        "english": "implore forgiveness"
+                    },
+                    {
+                        "chinese_phrase": "恳求的目光",
+                        "pinyin": "kěnqiú de mùguāng",
+                        "english": "imploring look"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "祈求",
+        "pinyin": "qí qiú ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "earnestly hope; pray for",
+                "examples": [
+                    {
+                        "chinese_phrase": "祈求恩赐",
+                        "pinyin": "qíqiú ēncì",
+                        "english": "entreat sb. to bestow favours; ask for favours"
+                    },
+                    {
+                        "chinese_phrase": "祈求和平",
+                        "pinyin": "Qíqiú hépíng",
+                        "english": "pray for peace"
+                    },
+                    {
+                        "chinese_phrase": "祈求上帝",
+                        "pinyin": "qíqiú Shàngdì",
+                        "english": "pray to God"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "尺有所短，寸有所长",
+        "pinyin": "chǐ  yǒu  suǒ  duǎn , cùn  yǒu  suǒ  cháng ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "Sometimes a foot may prove short while an inch may prove long.—Everyone has strengths and weaknesses.",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "擅长",
+        "pinyin": "shàn cháng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "be good at; be expert in; be skilled in",
+                "examples": [
+                    {
+                        "chinese_phrase": "擅长歌舞",
+                        "pinyin": "Shàncháng gēwǔ",
+                        "english": "be good at singing and dancing"
+                    },
+                    {
+                        "chinese_phrase": "他擅长侧泳。",
+                        "pinyin": "Tā shàncháng cè yǒng.",
+                        "english": "He has a good sidestroke."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "向往",
+        "pinyin": "xiàng wǎng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "yearn for; look forward to",
+                "examples": [
+                    {
+                        "chinese_phrase": "向往着北京",
+                        "pinyin": "xiàngwǎng zhe Běijīng",
+                        "english": "yearn for Beijing"
+                    },
+                    {
+                        "chinese_phrase": "向往幸福的新生活",
+                        "pinyin": "xiàngwǎng xìngfú de xīn shēnghuó",
+                        "english": "look forward to a happy new life"
+                    },
+                    {
+                        "chinese_phrase": "我终于登上了向往已久的长城。",
+                        "pinyin": "Wǒ zhōngyú dēng shàng le xiàngwǎng yǐ jiǔ de Chángchéng.",
+                        "english": "At long last, I climbed to the top of the Great Wall, which I had wanted to do for a long time."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "推崇",
+        "pinyin": "tuī chóng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "hold in esteem; praise highly",
+                "examples": [
+                    {
+                        "chinese_phrase": "推崇备至",
+                        "pinyin": "tuīchóngbèizhì",
+                        "english": "have the greatest esteem for"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "攀比",
+        "pinyin": "pān bǐ ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "compete socially; cite the case of others in support of one's own claim",
+                "examples": [
+                    {
+                        "chinese_phrase": "互相攀比",
+                        "pinyin": "hùxiāng pānbǐ",
+                        "english": "strive to surpass each other"
+                    },
+                    {
+                        "chinese_phrase": "盲目攀比",
+                        "pinyin": "mángmù pānbǐ",
+                        "english": "blindly vie with the better or the stronger"
+                    },
+                    {
+                        "chinese_phrase": "如今攀比成风。",
+                        "pinyin": "rújīn pānbǐ chéngfēng.",
+                        "english": "It is nowadays a common practice to keep up with the Joneses."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "锁链",
+        "pinyin": "suǒ liàn ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "chain",
+                "examples": []
+            },
+            {
+                "defn": "figurative shackles; fetters; chains",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "束缚",
+        "pinyin": "shù fù ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "tie; bind up; fetter",
+                "examples": [
+                    {
+                        "chinese_phrase": "束缚手脚",
+                        "pinyin": "shùfù shǒu-jiǎo",
+                        "english": "bind sb. hand and foot; tie sb.’s hands; hamper the initiative of"
+                    },
+                    {
+                        "chinese_phrase": "束缚生产力",
+                        "pinyin": "shùfù shēngchǎnlì",
+                        "english": "fetter the productive forces"
+                    },
+                    {
+                        "chinese_phrase": "冲破旧思想的束缚",
+                        "pinyin": "chōngpò jiù sīxiǎng de shùfù",
+                        "english": "smash the trammels of old ideas"
+                    },
+                    {
+                        "chinese_phrase": "挣脱封建礼教的束缚",
+                        "pinyin": "zhèngtuō fēngjiàn lǐjiào de shùfù",
+                        "english": "shake off the yoke of the feudal ethical code"
+                    },
+                    {
+                        "chinese_phrase": "僵化思想束缚着一些人的头脑。",
+                        "pinyin": "Jiānghuà sīxiǎng shùfù zhe yīxiē rén de tóunǎo.",
+                        "english": "An ossified way of thinking shackles some people’s minds."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "阻碍",
+        "pinyin": "zǔ ài ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "hinder; block; impede",
+                "examples": [
+                    {
+                        "chinese_phrase": "阻碍交通",
+                        "pinyin": "zǔ'ài jiāotōng",
+                        "english": "block the traffic"
+                    },
+                    {
+                        "chinese_phrase": "阻碍生产力的发展",
+                        "pinyin": "zǔ'ài shēngchǎnlì de fāzhǎn",
+                        "english": "hinder the development of the forces of production"
+                    },
+                    {
+                        "chinese_phrase": "遇到阻碍",
+                        "pinyin": "yùdào zǔ'ài",
+                        "english": "meet with obstruction"
+                    },
+                    {
+                        "chinese_phrase": "缺乏自信阻碍了他的发展。",
+                        "pinyin": "quēfá zìxìn zǔ'ài le tā de fāzhǎn.",
+                        "english": "His career was impeded by a lack of self-confidence.  noun hindrance; obstruction; impediment"
+                    },
+                    {
+                        "chinese_phrase": "进步道路上的巨大阻碍",
+                        "pinyin": "Jìnbù dàolù shàng de jùdà zǔ'ài",
+                        "english": "a great hindrance to the progress"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "耽误",
+        "pinyin": "dān wu ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "delay; hold up",
+                "examples": [
+                    {
+                        "chinese_phrase": "耽误工夫",
+                        "pinyin": "dānwu gōngfu",
+                        "english": "waste time"
+                    },
+                    {
+                        "chinese_phrase": "耽误了整个工程",
+                        "pinyin": "dānwu le zhěnggè gōngchéng",
+                        "english": "hold up (or delay) the whole project"
+                    },
+                    {
+                        "chinese_phrase": "把耽误的时间追回来",
+                        "pinyin": "bǎ dānwu de shíjiān zhuī huílai",
+                        "english": "make up for lost time"
+                    },
+                    {
+                        "chinese_phrase": "她从不因私事耽误工作。",
+                        "pinyin": "tā cóngbù yīn sīshì dānwu gōngzuò.",
+                        "english": "She never allows her private affairs to interfere with her work."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "拳击",
+        "pinyin": "quán jī ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "boxing; pugilism",
+                "examples": [
+                    {
+                        "chinese_phrase": "打拳击",
+                        "pinyin": "dǎ quánjī",
+                        "english": "do boxing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "斟酌",
+        "pinyin": "zhēn zhuó ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "consider; deliberate",
+                "examples": [
+                    {
+                        "chinese_phrase": "斟酌办理",
+                        "pinyin": "zhēnzhuóbànlǐ",
+                        "english": "act at one’s discretion; act as one sees fit"
+                    },
+                    {
+                        "chinese_phrase": "斟酌词句",
+                        "pinyin": "zhēnzhuó cíjù",
+                        "english": "weigh one’s words"
+                    },
+                    {
+                        "chinese_phrase": "斟酌情况作适当调整",
+                        "pinyin": "zhēnzhuó qíngkuàng zuò shìdàng tiáozhěng",
+                        "english": "make adjustments to suit the circumstances"
+                    },
+                    {
+                        "chinese_phrase": "再三斟酌",
+                        "pinyin": "Zàisān zhēnzhuó",
+                        "english": "consider carefully over and over again"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "屡屡",
+        "pinyin": "lü3lü3",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "adverb literary time and again; repeatedly",
+                "examples": [
+                    {
+                        "chinese_phrase": "屡屡得分",
+                        "pinyin": "lǚlǚ défēn",
+                        "english": "score over and over again"
+                    },
+                    {
+                        "chinese_phrase": "屡屡得手",
+                        "pinyin": "lǚlǚ déshǒu",
+                        "english": "succeed time and again"
+                    },
+                    {
+                        "chinese_phrase": "屡屡失手",
+                        "pinyin": "lǚlǚ shīshǒu",
+                        "english": "fail time and again"
+                    },
+                    {
+                        "chinese_phrase": "屡屡失算",
+                        "pinyin": "lǚlǚ shīsuàn",
+                        "english": "repeatedly misjudge (or commit errors of judgment)"
+                    },
+                    {
+                        "chinese_phrase": "屡屡失误",
+                        "pinyin": "lǚlǚ shīwù",
+                        "english": "slip up again and again"
+                    },
+                    {
+                        "chinese_phrase": "屡屡作祟",
+                        "pinyin": "lǚlǚ zuòsuì",
+                        "english": "make mischief (or cause trouble) over and over again"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "陷入",
+        "pinyin": "xiàn rù ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "sink (or fall) into; land oneself in; caught in; mired in; bogged down in",
+                "examples": [
+                    {
+                        "chinese_phrase": "陷入重围",
+                        "pinyin": "xiànrù chóngwéi",
+                        "english": "find oneself tightly encircled"
+                    },
+                    {
+                        "chinese_phrase": "陷入僵局",
+                        "pinyin": "xiànrù jiāngjú",
+                        "english": "deadlocked; reach an impasse"
+                    },
+                    {
+                        "chinese_phrase": "陷入困境",
+                        "pinyin": "xiànrù kùnjìng",
+                        "english": "land in a predicament; be put in a tight spot; cornered"
+                    },
+                    {
+                        "chinese_phrase": "陷入被动地位",
+                        "pinyin": "Xiànrù bèidòng dìwèi",
+                        "english": "lose the initiative; placed in a weak position"
+                    },
+                    {
+                        "chinese_phrase": "陷入神秘主义",
+                        "pinyin": "xiànrù shénmìzhǔyì",
+                        "english": "degenerate into mysticism"
+                    },
+                    {
+                        "chinese_phrase": "陷入无休止的争论",
+                        "pinyin": "xiànrù wú xiūzhǐ de zhēnglùn",
+                        "english": "mired in endless debates"
+                    }
+                ]
+            },
+            {
+                "defn": "lost in; immersed in; deep in",
+                "examples": [
+                    {
+                        "chinese_phrase": "陷入沉思",
+                        "pinyin": "xiànrù chénsī",
+                        "english": "lost in thought; deep in meditation; ponder"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "抛",
+        "pinyin": "pāo ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "throw; toss; fling",
+                "examples": [
+                    {
+                        "chinese_phrase": "抛球",
+                        "pinyin": "pāo qiú",
+                        "english": "throw (or toss) a ball"
+                    },
+                    {
+                        "chinese_phrase": "抛出一项容易产生误导的提案",
+                        "pinyin": "pāo chū yī xiàng róngyì chǎnshēng wùdǎo de tí'àn",
+                        "english": "dish out (or trot out) a misleading proposal"
+                    }
+                ]
+            },
+            {
+                "defn": "leave behind; cast aside",
+                "examples": [
+                    {
+                        "chinese_phrase": "抛进历史的垃圾堆",
+                        "pinyin": "Pāo jìn lìshǐ de lājīduī",
+                        "english": "relegate to the garbage heap of history"
+                    },
+                    {
+                        "chinese_phrase": "他跑得很快, 把别人都抛在后面。",
+                        "pinyin": "tā pǎo de hěn kuài, bǎ biéren dōu pāo zài hòumian.",
+                        "english": "He ran so fast that the other runners were all left far behind."
+                    }
+                ]
+            },
+            {
+                "defn": "undersell; dump; sell in large quantity",
+                "examples": [
+                    {
+                        "chinese_phrase": "抛出股票",
+                        "pinyin": "pāo chū gǔpiào",
+                        "english": "dump stocks"
+                    }
+                ]
+            },
+            {
+                "defn": "show; expose See",
+                "examples": [
+                    null
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "坦然",
+        "pinyin": "tǎn rán ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "calm; unperturbed; with no misgivings",
+                "examples": [
+                    {
+                        "chinese_phrase": "坦然无惧",
+                        "pinyin": "tǎnránwújù",
+                        "english": "calm and fearless"
+                    },
+                    {
+                        "chinese_phrase": "坦然自若",
+                        "pinyin": "tǎnrán zìruò",
+                        "english": "calm and confident; completely at ease"
+                    },
+                    {
+                        "chinese_phrase": "他很坦然, 没有一点儿不安的样子。",
+                        "pinyin": "tā hěn tǎnrán, méi yǒu yīdiǎnr bù'ān de yàngzi.",
+                        "english": "He’s calm and completely at ease."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "进退维谷",
+        "pinyin": "jìn tuì wéi gǔ ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "in a dilemma; between the devil and the deep blue sea; in a difficult position",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "不屈不挠",
+        "pinyin": "bù qū bù náo ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "unyielding; indomitable; dauntless",
+                "examples": [
+                    {
+                        "chinese_phrase": "不屈不挠的决心",
+                        "pinyin": "bùqūbùnáo de juéxīn",
+                        "english": "indomitable will"
+                    },
+                    {
+                        "chinese_phrase": "不屈不挠, 前仆后继",
+                        "pinyin": "bùqūbùnáo, qiánpūhòujì",
+                        "english": "dauntlessly step into the breach as others fall; persistent and undeterred"
+                    },
+                    {
+                        "chinese_phrase": "不屈不挠再接再厉的斗争",
+                        "pinyin": "bùqūbùnáo zàijiēzàilì de dòuzhēng",
+                        "english": "unrelenting and persistent struggle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "财政",
+        "pinyin": "cái zhèng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "(public) finance",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "预算案",
+        "pinyin": "yù suàn àn ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "budget",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "悠闲",
+        "pinyin": "yōu xián ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "variant of ",
+                "examples": [
+                    null
+                ]
+            },
+            {
+                "defn": "leisurely",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "夕阳",
+        "pinyin": "xī yáng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "evening sun; setting sun (opp.",
+                "examples": [
+                    null,
+                    {
+                        "chinese_phrase": "夕阳反照",
+                        "pinyin": "xīyáng fǎnzhào",
+                        "english": "evening (or sunset) glow"
+                    },
+                    {
+                        "chinese_phrase": "夕阳西下。",
+                        "pinyin": "Xīyángxīxià.",
+                        "english": "The evening sun is sinking in the west. or The sun is setting in the west."
+                    },
+                    {
+                        "chinese_phrase": "夕阳无限好, 只是近黄昏。",
+                        "pinyin": "",
+                        "english": "只是近黄昏。("
+                    },
+                    null,
+                    {
+                        "chinese_phrase": "乐游原",
+                        "pinyin": "》) xīyáng wúxiàn hǎo, zhǐshì jìn huánghūn.",
+                        "english": "The setting sun glows with beauty, | but heralds the coming dusk."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "柔和",
+        "pinyin": "róu hé ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "soft; gentle; supple; delicate",
+                "examples": [
+                    {
+                        "chinese_phrase": "柔和的光线",
+                        "pinyin": "róuhé de guāngxiàn",
+                        "english": "soft light"
+                    },
+                    {
+                        "chinese_phrase": "柔和的声音",
+                        "pinyin": "róuhé de shēngyīn",
+                        "english": "gentle (or mild) voice; soft sound"
+                    },
+                    {
+                        "chinese_phrase": "性情柔和",
+                        "pinyin": "xìngqíng róuhé",
+                        "english": "have a mild disposition"
+                    },
+                    {
+                        "chinese_phrase": "颜色柔和",
+                        "pinyin": "yánsè róuhé",
+                        "english": "soft colour"
+                    },
+                    {
+                        "chinese_phrase": "这块料子手感柔和。",
+                        "pinyin": "Zhè kuài liàozi shǒugǎn róuhé.",
+                        "english": "This fabric feels soft."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "串",
+        "pinyin": "chuàn ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "string together",
+                "examples": [
+                    {
+                        "chinese_phrase": "把鱼串起来",
+                        "pinyin": "Bǎ yú chuàn qǐlai",
+                        "english": "string the fish together"
+                    }
+                ]
+            },
+            {
+                "defn": "conspire; gang up See",
+                "examples": [
+                    null
+                ]
+            },
+            {
+                "defn": "get things mixed up",
+                "examples": [
+                    {
+                        "chinese_phrase": "字印得太小, 很容易看串行。",
+                        "pinyin": "Zì yìn de tài xiǎo, hěn róngyì kàn chuàn háng.",
+                        "english": "The print is too small, and you can easily miss (or skip) a line."
+                    }
+                ]
+            },
+            {
+                "defn": "go from place to place; run about; rove",
+                "examples": [
+                    {
+                        "chinese_phrase": "串亲戚",
+                        "pinyin": "chuàn qīnqi",
+                        "english": "go visiting one’s relatives"
+                    },
+                    {
+                        "chinese_phrase": "到处乱串",
+                        "pinyin": "Dàochù luàn chuàn",
+                        "english": "run about aimlessly"
+                    }
+                ]
+            },
+            {
+                "defn": "play a part (in a play); act",
+                "examples": [
+                    {
+                        "chinese_phrase": "客串",
+                        "pinyin": "kèchuàn",
+                        "english": "be a guest performer  measure word [for a string of things] string; bunch; cluster"
+                    },
+                    {
+                        "chinese_phrase": "一串葡萄",
+                        "pinyin": "yī chuàn pútao",
+                        "english": "a cluster of grapes"
+                    },
+                    {
+                        "chinese_phrase": "一串钥匙",
+                        "pinyin": "yī chuàn yàoshi",
+                        "english": "a bunch of keys"
+                    },
+                    {
+                        "chinese_phrase": "一串珠子",
+                        "pinyin": "yī chuàn zhūzi",
+                        "english": "a string of beads"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "堤岸",
+        "pinyin": "dī àn ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "embankment",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "流淌",
+        "pinyin": "liú tǎng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "(of liquid) flow",
+                "examples": [
+                    {
+                        "chinese_phrase": "流淌着的泉水",
+                        "pinyin": "liútǎng zhe de quánshuǐ",
+                        "english": "running spring"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "叠",
+        "pinyin": "dié ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "pile up; repeat",
+                "examples": [
+                    {
+                        "chinese_phrase": "重叠",
+                        "pinyin": "chóngdié",
+                        "english": "overlap"
+                    }
+                ]
+            },
+            {
+                "defn": "fold",
+                "examples": [
+                    {
+                        "chinese_phrase": "叠被子",
+                        "pinyin": "dié bèizi",
+                        "english": "fold up a quilt; make the bed (after getting up)"
+                    },
+                    {
+                        "chinese_phrase": "把信叠好",
+                        "pinyin": "bǎ xìn dié hǎo",
+                        "english": "fold the letter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "河畔",
+        "pinyin": "hé pàn ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "riverside",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "林荫道",
+        "pinyin": "lín yìn dào ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "boulevard; avenue",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "竖立",
+        "pinyin": "shù lì ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "erect; set upright; stand",
+                "examples": [
+                    {
+                        "chinese_phrase": "门前竖立着一根旗杆。",
+                        "pinyin": "Mén qián shùlì zhe yī gēn qígān.",
+                        "english": "A flagpole stands outside the gate."
+                    },
+                    {
+                        "chinese_phrase": "宝塔竖立在山上。",
+                        "pinyin": "Bǎotǎ shùlì zài shān shàng.",
+                        "english": "The pagoda stands at the top of the mountain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "足迹",
+        "pinyin": "zú jì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "footmark; footprint; track",
+                "examples": [
+                    {
+                        "chinese_phrase": "雪地上的足迹",
+                        "pinyin": "Xuědì shàng de zújì",
+                        "english": "footprints (or tracks) in the snow"
+                    },
+                    {
+                        "chinese_phrase": "祖国各个角落都有地质勘探队员的足迹。",
+                        "pinyin": "Zǔguó gègè jiǎoluò dōu yǒu dìzhì kāntàn duìyuán de zújì.",
+                        "english": "Our geological explorers have left their footprints in every corner of the country."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "雕塑",
+        "pinyin": "diāo sù ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "sculpture",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "栩栩如生",
+        "pinyin": "xǔ xǔ rú shēng ",
+        "tags": "idiom",
+        "definitions": [
+            {
+                "defn": "lifelike; to the life",
+                "examples": [
+                    {
+                        "chinese_phrase": "他画的奔马栩栩如生, 极其神似。",
+                        "pinyin": "Tā huà de bēnmǎ xǔxǔrúshēng, jíqí shénsì.",
+                        "english": "The galloping horses he paints are extremely lifelike."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "承载",
+        "pinyin": "chéng zài ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "bear the weight of",
+                "examples": [
+                    {
+                        "chinese_phrase": "承载能力",
+                        "pinyin": "chéngzài nénglì",
+                        "english": "bearing (or carrying) capacity; load-bearing capacity"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "祖辈",
+        "pinyin": "zǔ bèi ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "ancestors; forefathers; ancestry",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "娱乐",
+        "pinyin": "yú lè ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "amusement; entertainment; recreation",
+                "examples": [
+                    {
+                        "chinese_phrase": "文化娱乐",
+                        "pinyin": "wénhuà yúlè",
+                        "english": "cultural activity"
+                    },
+                    {
+                        "chinese_phrase": "冬季娱乐项目",
+                        "pinyin": "dōngjì yúlè xiàngmù",
+                        "english": "winter recreations"
+                    }
+                ]
+            },
+            {
+                "defn": "recreational activities; hobby",
+                "examples": [
+                    {
+                        "chinese_phrase": "象棋是他爱好的娱乐。",
+                        "pinyin": "Xiàngqí shì tā àihào de yúlè.",
+                        "english": "Chess is his hobby.  verb give pleasure to; amuse"
+                    },
+                    {
+                        "chinese_phrase": "节目要能娱乐观众。",
+                        "pinyin": "jiémù yào néng yúlè guānzhòng.",
+                        "english": "The programmes should entertain the audience."
+                    },
+                    {
+                        "chinese_phrase": "考完试得好好娱乐娱乐。",
+                        "pinyin": "Kǎowán shì de hǎohāo yúlèyúlè.",
+                        "english": "We would enjoy ourselves after the examinations."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "威风",
+        "pinyin": "wēi fēng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "power and prestige; might",
+                "examples": [
+                    {
+                        "chinese_phrase": "显威风",
+                        "pinyin": "xiǎn wēifēng",
+                        "english": "demonstrate one’s courage and power"
+                    },
+                    {
+                        "chinese_phrase": "灭敌人的威风",
+                        "pinyin": "Miè dírén de wēifēng",
+                        "english": "puncture (or deflate) the enemy’s arrogance See"
+                    },
+                    {
+                        "chinese_phrase": "抖威风",
+                        "pinyin": "",
+                        "english": "adjective imposing; impressive; awe-inspiring 瞧！"
+                    },
+                    {
+                        "chinese_phrase": "这些兵多么威风",
+                        "pinyin": "！ Qiáo! Zhèxiē bīng duōmewēifēng!",
+                        "english": "Look how imposing these soldiers are!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "横跨",
+        "pinyin": "héng kuà ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "stretch over (or across)",
+                "examples": [
+                    {
+                        "chinese_phrase": "横跨长江的大桥",
+                        "pinyin": "Héngkuà Cháng Jiāng de dà qiáo",
+                        "english": "gigantic bridge spanning the Chang Jiang River"
+                    },
+                    {
+                        "chinese_phrase": "一道彩虹横跨天际。",
+                        "pinyin": "Yī dào cǎihóng héngkuà tiānjì.",
+                        "english": "A rainbow arched across the sky."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "地",
+        "pinyin": "dì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "the earth 天∼",
+                "examples": [
+                    {
+                        "chinese_phrase": "之间",
+                        "pinyin": "Tiān ∼ zhījiān",
+                        "english": "between heaven and earth; under the sun"
+                    },
+                    null,
+                    {
+                        "chinese_phrase": "角",
+                        "pinyin": "tiānyá∼jiǎo",
+                        "english": "the ends of the earth"
+                    }
+                ]
+            },
+            {
+                "defn": "land; soil 草∼ cǎo∼ meadow; grassland",
+                "examples": []
+            },
+            {
+                "defn": "fields 麦∼ mài∼ wheat field 在∼",
+                "examples": [
+                    {
+                        "chinese_phrase": "里干活儿",
+                        "pinyin": "zài ∼ lǐ gànhuór",
+                        "english": "work in the fields"
+                    }
+                ]
+            },
+            {
+                "defn": "ground; floor",
+                "examples": [
+                    {
+                        "chinese_phrase": "水泥",
+                        "pinyin": "∼ shuǐní∼",
+                        "english": "cement floor"
+                    }
+                ]
+            },
+            {
+                "defn": "place; locality ∼",
+                "examples": [
+                    {
+                        "chinese_phrase": "处山区",
+                        "pinyin": "∼chǔ shānqū",
+                        "english": "located in a mountain area 各∼"
+                    },
+                    {
+                        "chinese_phrase": "党组织",
+                        "pinyin": "gè ∼ dǎngzǔzhi",
+                        "english": "Party organizations of all localities"
+                    },
+                    {
+                        "chinese_phrase": "每到一",
+                        "pinyin": "∼ měi dào yī",
+                        "english": "∼ wherever one goes 因∼"
+                    },
+                    {
+                        "chinese_phrase": "而异",
+                        "pinyin": "yīn∼éryì",
+                        "english": "vary from place to place"
+                    },
+                    {
+                        "chinese_phrase": "滋生",
+                        "pinyin": "∼ zīshēng∼",
+                        "english": "hotbed; breeding place"
+                    }
+                ]
+            },
+            {
+                "defn": "position; situation",
+                "examples": [
+                    {
+                        "chinese_phrase": "不败之",
+                        "pinyin": "∼ bùbàizhī∼",
+                        "english": "an invincible position"
+                    }
+                ]
+            },
+            {
+                "defn": "background; ground 白∼",
+                "examples": [
+                    {
+                        "chinese_phrase": "红花的大碗",
+                        "pinyin": "bái∼ hónghuā de dà wǎn",
+                        "english": "a big white bowl with a pattern of red flowers"
+                    },
+                    null,
+                    {
+                        "chinese_phrase": "黑字的木牌",
+                        "pinyin": "yī kuài bái∼ hēi zì de mùpái",
+                        "english": "a board with black characters on a white background"
+                    }
+                ]
+            },
+            {
+                "defn": "distance travelled (measured in li (里) or stops (站))",
+                "examples": [
+                    {
+                        "chinese_phrase": "十里",
+                        "pinyin": "∼ shí lǐ",
+                        "english": "∼ a distance of ten li"
+                    },
+                    {
+                        "chinese_phrase": "我家离广场只有两站",
+                        "pinyin": "∼。 wǒjiā lí guǎngchǎng zhǐyǒu liǎng zhàn",
+                        "english": "∼. My home is only two bus stops from the square."
+                    }
+                ]
+            },
+            {
+                "defn": "indicating state of mind 心∼",
+                "examples": [
+                    {
+                        "chinese_phrase": "善良",
+                        "pinyin": "xīn∼ shànliáng",
+                        "english": "kind-hearted; good-natured"
+                    },
+                    {
+                        "chinese_phrase": "颇有见",
+                        "pinyin": "∼ Pōyǒu jiàn∼",
+                        "english": "very insightful  Test"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "壮观",
+        "pinyin": "zhuàng guān ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "magnificent; spectacular",
+                "examples": [
+                    {
+                        "chinese_phrase": "节日的广场到处红旗飘扬, 显得格外壮观。",
+                        "pinyin": "Jiérì de guǎngchǎng dàochù hóngqí piāoyáng, xiǎnde géwài zhuàngguān.",
+                        "english": "With red flags fluttering everywhere in celebration of the festival, the square looked truly magnificent."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "标志",
+        "pinyin": "biāo zhì ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "sign; mark; symbol",
+                "examples": [
+                    {
+                        "chinese_phrase": "交通标志",
+                        "pinyin": "jiāotōngbiāozhì",
+                        "english": "traffic sign"
+                    },
+                    {
+                        "chinese_phrase": "停车标志",
+                        "pinyin": "tíng chē biāo zhì",
+                        "english": "stop sign"
+                    },
+                    {
+                        "chinese_phrase": "兴旺发达的标志",
+                        "pinyin": "xīngwàngfādá de biāozhì",
+                        "english": "sign of vigor and prosperity  verb indicate; mark; symbolize"
+                    },
+                    {
+                        "chinese_phrase": "中华人民共和国的成立, 标志着我国历史又一新开端。",
+                        "pinyin": "Zhōnghuá Rénmín Gònghéguó de chénglì, biāozhì zhe wǒguó lìshǐ yòu yīxīn kāiduān.",
+                        "english": "The founding of the People’s Republic of China marked the beginning of a new historical period in our country."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "眺望",
+        "pinyin": "tiào wàng ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "look into the distance from a high vantage point",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "金融区",
+        "pinyin": "jīn róng qū ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "financial district",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "林立",
+        "pinyin": "lín lì ",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "(of masts, smokestacks, derricks, tall buildings, etc.) stand (in great numbers) like a forest",
+                "examples": [
+                    {
+                        "chinese_phrase": "港口樯桅林立。",
+                        "pinyin": "Gǎngkǒu qiáng wéi línlì.",
+                        "english": "There is a forest of masts in the harbour."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "摩天大楼",
+        "pinyin": "mó tiān  dà lóu ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "skyscraper",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "风采",
+        "pinyin": "fēng cǎi ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "literary elegant demeanour; graceful bearing",
+                "examples": [
+                    {
+                        "chinese_phrase": "风采动人",
+                        "pinyin": "fēngcǎi dòngrén",
+                        "english": "have a strikingly elegant and graceful bearing"
+                    }
+                ]
+            },
+            {
+                "defn": "literary literary grace",
+                "examples": []
+            },
+            {
+                "defn": "archaic integrity (of government officials)",
+                "examples": [
+                    null,
+                    {
+                        "chinese_phrase": "明史",
+                        "pinyin": "》) Jǔ cháo dàn qí fēngcǎi.",
+                        "english": "All the other court officials were awestruck by his strict rectitude."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "黄昏",
+        "pinyin": "huáng hūn ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "dusk",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "霞",
+        "pinyin": "xiá ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "rosy clouds; morning or evening glow",
+                "examples": [
+                    {
+                        "chinese_phrase": "晚霞",
+                        "pinyin": "wǎnxiá",
+                        "english": "sunset glow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "揭开",
+        "pinyin": "jiē //kai1",
+        "tags": "verb",
+        "definitions": [
+            {
+                "defn": "uncover; reveal; open",
+                "examples": [
+                    {
+                        "chinese_phrase": "揭开宇宙的奥秘",
+                        "pinyin": "Jiēkāi yǔzhòu de àomì",
+                        "english": "reveal the secrets of the universe"
+                    },
+                    {
+                        "chinese_phrase": "揭开两国关系史上的新篇章",
+                        "pinyin": "jiēkāi liǎng guó guānxi shǐ shàng de xīn piānzhāng",
+                        "english": "open a new chapter in the relations between the two countries"
+                    },
+                    {
+                        "chinese_phrase": "揭开新民主主义革命的序幕",
+                        "pinyin": "jiēkāi xīn mínzhǔzhǔyì gémìng de xùmù",
+                        "english": "raise the curtain on the New-Democratic Revolution"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "序幕",
+        "pinyin": "xù mù ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "prologue (to a play)",
+                "examples": []
+            },
+            {
+                "defn": "prologue (to a major event, etc.); prelude",
+                "examples": [
+                    {
+                        "chinese_phrase": "五四运动是中国新民主主义革命的序幕。",
+                        "pinyin": "Wǔ-Sì Yùndòng shì Zhōngguó xīn mínzhǔzhǔyì gémìng dexùmù.",
+                        "english": "The May 4th Movement was the prelude to China’s new-democratic revolution."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "摇曳",
+        "pinyin": "yáo yè ",
+        "tags": "verb, literary",
+        "definitions": [
+            {
+                "defn": "flicker; sway",
+                "examples": [
+                    {
+                        "chinese_phrase": "摇曳的灯光",
+                        "pinyin": "yáoyè de dēngguāng",
+                        "english": "flickering light"
+                    },
+                    {
+                        "chinese_phrase": "垂柳在微风中轻轻摇曳。",
+                        "pinyin": "Chuíliǔ zài wēifēng zhōng qīngqīng yáoyè.",
+                        "english": "The willow branches swayed gently in the breeze."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "连续剧",
+        "pinyin": "lián xù jù ",
+        "tags": "",
+        "definitions": [
+            {
+                "defn": "serial",
+                "examples": []
+            }
+        ]
+    },
+    {
+        "chinese": "满腔",
+        "pinyin": "mǎn qiāng ",
+        "tags": "noun",
+        "definitions": [
+            {
+                "defn": "one's heart filled with",
+                "examples": [
+                    {
+                        "chinese_phrase": "满腔仇恨",
+                        "pinyin": "mǎnqiāng chóuhèn",
+                        "english": "burning with hatred"
+                    },
+                    {
+                        "chinese_phrase": "满腔怒火",
+                        "pinyin": "Mǎnqiāngnùhuǒ",
+                        "english": "filled with rage"
+                    },
+                    {
+                        "chinese_phrase": "满腔的热血已经沸腾。",
+                        "pinyin": "Mǎnqiāng de rèxuè yǐjing fèiténg.",
+                        "english": "Our blood is boiling. or We are stirred up."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "愤慨",
+        "pinyin": "fèn kǎi ",
+        "tags": "adjective, literary",
+        "definitions": [
+            {
+                "defn": "righteously indignant",
+                "examples": [
+                    {
+                        "chinese_phrase": "表示愤慨",
+                        "pinyin": "Biǎoshì fènkǎi",
+                        "english": "express one’s indignation"
+                    },
+                    {
+                        "chinese_phrase": "群情愤慨。",
+                        "pinyin": "qúnqíng fènkǎi",
+                        "english": "The public were indignant."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "纵然",
+        "pinyin": "zòng rán ",
+        "tags": "conjunction, literary",
+        "definitions": [
+            {
+                "defn": "even if; even though",
+                "examples": [
+                    {
+                        "chinese_phrase": "纵然成功的希望不大, 我们也要试试。",
+                        "pinyin": "Zòngrán chénggōng de xīwàng bù dà, wǒmen yě yào shìshi.",
+                        "english": "We will try even if there is little hope of success."
+                    },
+                    {
+                        "chinese_phrase": "今天纵然有雨, 也不会很大。",
+                        "pinyin": "Jīntiān zòngrán yǒu yǔ, yě bù huì hěn dà.",
+                        "english": "Even if it rains today, it won’t be heavy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "嚣张",
+        "pinyin": "xiāo zhāng ",
+        "tags": "adjective",
+        "definitions": [
+            {
+                "defn": "rampant; arrogant; aggressive",
+                "examples": [
+                    {
+                        "chinese_phrase": "嚣张一时",
+                        "pinyin": "xiāozhāngyīshí",
+                        "english": "run rampant (or wild) for a time"
+                    },
+                    {
+                        "chinese_phrase": "他也太嚣张了。",
+                        "pinyin": "Tā yě tài xiāozhāng",
+                        "english": "le. He’s really too aggressive."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "步履",
+        "pinyin": "bù lü3",
+        "tags": "literary, verb",
+        "definitions": [
+            {
+                "defn": "walk  noun steps",
+                "examples": []
+            }
+        ]
+    }
+]

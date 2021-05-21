@@ -1,14 +1,14 @@
 import re
 
-from utils import splice_string, convert_alphanum_to_pinyin
+from utils import remove_links, splice_string, convert_alphanum_to_pinyin
 from constants import html_templates
 
 pleco_tags = ['verb', 'adjective', 'noun',
-              'idiom', 'conjunction', 'literary', 'dialect']
+              'idiom', 'conjunction', 'literary', 'dialect', 'colloquial', 'adverb']
 
 chinese_phrase_pattern = '[\u4e00-\u9fff][\u4e00-\u9fff, 。？]+'
 line_pattern = f'(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<tags>(({"|".join(pleco_tags)}) )*)(?P<definition_and_examples>.*)'
-single_definition_pattern = ' \d .*?(?= \d |$)'
+single_definition_pattern = '\d .*?(?=( \d |$))'
 pinyin_special_chars = 'āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜ'
 # pinyin_phrase_pattern = f'[a-zA-Z{pinyin_special_chars}, ]*[{pinyin_special_chars}][a-zA-Z]*?'
 # non_pinyin_pattern = ' [a-zA-Z\',]+? '
@@ -42,7 +42,8 @@ class Example:
         )
 
     def __str__(self):
-        return f'CHINESE: {self.chinese_phrase}\nPINYIN: {self.pinyin}\nENGLISH: {self.english}'
+        return str(self.__dict__)
+        # return f'chinese: {self.chinese_phrase}\npinyin: {self.pinyin}\nenglish: {self.english}'
 
     def __repr__(self):
         return self.__str__()
@@ -56,6 +57,7 @@ class Definition:
 
     @staticmethod
     def from_string(string):
+        string = remove_links(string)
         chinese_indexes = [m.start()
                            for m in re.finditer(chinese_phrase_pattern, string)]
         if len(chinese_indexes) == 0:
@@ -63,7 +65,7 @@ class Definition:
         defn = string[:chinese_indexes[0]]
         examples = []
         for i in range(len(chinese_indexes) - 1):
-            example_str = string[chinese_indexes[i]: chinese_indexes[i+1]]
+            example_str = string[chinese_indexes[i]: chinese_indexes[i + 1]]
             examples.append(Example.from_string(example_str))
         examples.append(Example.from_string(string[chinese_indexes[-1]:]))
         return Definition(defn, examples)
@@ -77,7 +79,9 @@ class Definition:
         )
 
     def __str__(self):
-        return f'DEFN: {self.defn}\n==========\nEXAMPLES: {self.examples}\n'
+        return str(self.__dict__)
+        # examples_str = '\n\t'.join(str(example) for example in self.examples)
+        # return f'defn: {self.defn}\n==========\nexamples: \n\t{examples_str}\n'
 
     def __repr__(self):
         return self.__str__()
@@ -105,11 +109,20 @@ class Phrase:
         )
 
     @staticmethod
-    def _extract_definitions(definition_and_examples_str):
-        if ' 1 ' in definition_and_examples_str:
+    def _extract_definitions(definition_and_examples_str: str):
+        # TODO: cards with multiple types (can be used as a noun / verb / adjective in different ways, etc)
+        definition_and_examples_str = definition_and_examples_str.strip()
+        if definition_and_examples_str.startswith('1 '):
             definitions = []
             for match in re.finditer(single_definition_pattern, definition_and_examples_str):
-                string = match.group(0)[1:]  # remove the number
+                string = match.group(0)[2:]  # remove the number
+                definitions.append(Definition.from_string(string))
+        elif ' 1 ' in definition_and_examples_str:
+            first_num_i = definition_and_examples_str.find(' 1 ')
+            definitions = [Definition.from_string(
+                definition_and_examples_str[:first_num_i])]
+            for match in re.finditer(single_definition_pattern, definition_and_examples_str):
+                string = match.group(0)[2:]  # remove the number
                 definitions.append(Definition.from_string(string))
         else:
             definitions = [Definition.from_string(definition_and_examples_str)]
@@ -126,3 +139,9 @@ class Phrase:
             definitions='\n'.join(definition.to_html(i + 1, self.chinese)
                                   for i, definition in enumerate(self.definitions)),
         )
+
+    def __repr__(self):
+        return str(self.__dict__)
+        # definitions_str = '\n\t'.join(str(definition)
+        #                               for definition in self.definitions)
+        # return f'chinese: {self.chinese}\npinyin: {self.pinyin}\ntags: {self.tags}\ndefinitions: \n\t{definitions_str}'
