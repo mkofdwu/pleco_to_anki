@@ -8,7 +8,7 @@ pleco_tags = ['verb', 'adjective', 'noun',
 
 chinese_phrase_pattern = '[\u4e00-\u9fff][\u4e00-\u9fff, 。？]+'
 line_pattern = f'(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<tags>(({"|".join(pleco_tags)}) )*)(?P<definition_and_examples>.*)'
-single_definition_pattern = '\d .*?(?=( \d |$))'
+single_definition_pattern = r'\d .*?(?=( \d |$))'
 pinyin_special_chars = 'āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜ'
 # pinyin_phrase_pattern = f'[a-zA-Z{pinyin_special_chars}, ]*[{pinyin_special_chars}][a-zA-Z]*?'
 # non_pinyin_pattern = ' [a-zA-Z\',]+? '

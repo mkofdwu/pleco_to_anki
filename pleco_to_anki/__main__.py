@@ -12,15 +12,15 @@ def save_extracted_phrases_as_json(phrases):
     import json
     import ast
     obj = ast.literal_eval(str(phrases))
-    with open('./out/result.json', 'w') as f:
+    with open('./out/result.json', 'w', encoding='utf-8') as f:
         json.dump(obj, f, indent=4, ensure_ascii=False)
 
 
 def read_and_extract_phrases(path):
-    with open(path, 'r+') as f:
+    with open(path, 'r+', encoding='utf-8') as f:
         phrases = []
         for line in f.readlines():
-            if line.startswith('//'):
+            if line.startswith('//') or line == '\n' or line == '':
                 continue
             phrases.append(Phrase.from_string(line))
         return phrases
@@ -30,7 +30,7 @@ def get_existing_phrases(deck_name):
     path = f'./out/{deck_name}_existing_phrases.txt'
     if not os.path.isfile(path):
         return []
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         return f.read().split('\n')
 
 
@@ -39,46 +39,46 @@ def save_existing_phrases(deck_name, phrases):
     # if os.path.isfile(path):
     #     # save temporary file for backup
     #     os.rename(path, f'./out/{deck_name}_existing_phrases_old.txt')
-    with open(path, 'w') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(phrase.chinese for phrase in phrases))
 
 
 def format_pleco_export(path, deck_name):
     phrases = read_and_extract_phrases(path)
-    save_extracted_phrases_as_json(phrases)
-    # existing_phrases = get_existing_phrases(deck_name)
-    # model = genanki.Model(
-    #     1324780,
-    #     name=deck_name + ' model',
-    #     fields=[
-    #         {'name': 'Front'},
-    #         {'name': 'Back'},
-    #     ],
-    #     templates=[
-    #         {
-    #             'name': 'Card 1',
-    #             'qfmt': '{{Front}}',
-    #             'afmt': '{{Back}}',
-    #         },
-    #     ],
-    #     css=css.CSS,
-    # )
-    # deck = genanki.Deck(1472890, deck_name)
-    # for phrase in phrases:
-    #     if phrase.chinese in existing_phrases:
-    #         continue
-    #     note = genanki.Note(
-    #         model=model,
-    #         fields=[
-    #             phrase.front_html(),
-    #             phrase.back_html()
-    #         ],
-    #     )
-    #     deck.add_note(note)
-    # genanki.Package(deck).write_to_file('out/' + deck_name + '.apkg')
+    # save_extracted_phrases_as_json(phrases)
+    existing_phrases = get_existing_phrases(deck_name)
+    model = genanki.Model(
+        1324780,
+        name=deck_name + ' model',
+        fields=[
+            {'name': 'Front'},
+            {'name': 'Back'},
+        ],
+        templates=[
+            {
+                'name': 'Card 1',
+                'qfmt': '{{Front}}',
+                'afmt': '{{Back}}',
+            },
+        ],
+        css=css.CSS,
+    )
+    deck = genanki.Deck(1472890, deck_name)
+    for phrase in phrases:
+        if phrase.chinese in existing_phrases:
+            continue
+        note = genanki.Note(
+            model=model,
+            fields=[
+                phrase.front_html(),
+                phrase.back_html()
+            ],
+        )
+        deck.add_note(note)
+    genanki.Package(deck).write_to_file('out/' + deck_name + '.apkg')
 
-    # # save list of generated phrases to prevent duplicates
-    # save_existing_phrases(deck_name, phrases)
+    # save list of generated phrases to prevent duplicates
+    save_existing_phrases(deck_name, phrases)
 
 
 if __name__ == '__main__':
