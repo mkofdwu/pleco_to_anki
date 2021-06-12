@@ -4,7 +4,7 @@ from utils import remove_links, splice_string, convert_alphanum_to_pinyin
 from constants import html_templates
 
 pleco_tags = ['verb', 'adjective', 'noun',
-              'idiom', 'conjunction', 'literary', 'dialect', 'colloquial', 'adverb']
+              'idiom', 'conjunction', 'literary', 'dialect', 'colloquial', 'adverb', 'pronoun', 'preposition']
 
 chinese_phrase_pattern = '[\u4e00-\u9fff][\u4e00-\u9fff, 。？]+'
 line_pattern = f'(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<tags>(({"|".join(pleco_tags)}) )*)(?P<definition_and_examples>.*)'

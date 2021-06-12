@@ -35,7 +35,7 @@ def splice_string(string, start, end, replace):
 
 def convert_alphanum_to_pinyin(alphanum):
     alphanum = alphanum.replace('-', '').replace('//', '')
-    word_pinyin_pattern = r'(^| |\d)(?P<main>[a-zA-Z]+?[1-5])'
+    word_pinyin_pattern = r'(^| |\d)(?P<main>[a-zA-Zü]+?[1-5])'
     while True:
         match = re.search(word_pinyin_pattern, alphanum)
         if match is None:
