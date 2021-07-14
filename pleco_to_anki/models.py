@@ -7,11 +7,10 @@ pleco_tags = ['verb', 'adjective', 'noun',
               'idiom', 'conjunction', 'literary', 'dialect', 'colloquial', 'adverb', 'pronoun', 'preposition']
 
 chinese_phrase_pattern = '[\u4e00-\u9fff][\u4e00-\u9fff, 。？]+'
-line_pattern = f'(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<tags>(({"|".join(pleco_tags)}) )*)(?P<definition_and_examples>.*)'
+tags_and_definition_pattern = f'(?P<tags>(({"|".join(pleco_tags)}) )+)(?P<definitions_and_examples>.*?)(?=$|{"|".join(pleco_tags)})'
+line_pattern = f'(?P<chinese>.*?)\t(?P<pinyin>.*?)\t(?P<all_meanings>.*)'
 single_definition_pattern = r'\d .*?(?=( \d |$))'
 pinyin_special_chars = 'āáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜ'
-# pinyin_phrase_pattern = f'[a-zA-Z{pinyin_special_chars}, ]*[{pinyin_special_chars}][a-zA-Z]*?'
-# non_pinyin_pattern = ' [a-zA-Z\',]+? '
 english_defn_pattern = f' [^{pinyin_special_chars}]+$'
 
 
@@ -29,7 +28,7 @@ class Example:
             english_start = re.search(english_defn_pattern, string).start()
             return Example(string[:chinese_end], string[chinese_end:english_start], string[english_start:])
         except:
-            print('ERROR', string)
+            print(f'ERROR <{string}>')
 
     def to_html(self, main_chinese):
         i = self.chinese_phrase.find(main_chinese)
@@ -43,7 +42,6 @@ class Example:
 
     def __str__(self):
         return str(self.__dict__)
-        # return f'chinese: {self.chinese_phrase}\npinyin: {self.pinyin}\nenglish: {self.english}'
 
     def __repr__(self):
         return self.__str__()
@@ -80,68 +78,93 @@ class Definition:
 
     def __str__(self):
         return str(self.__dict__)
-        # examples_str = '\n\t'.join(str(example) for example in self.examples)
-        # return f'defn: {self.defn}\n==========\nexamples: \n\t{examples_str}\n'
 
     def __repr__(self):
         return self.__str__()
 
 
 class Phrase:
+    r'''
+    Example:
+    凭                                     # chinese
+    píng                                   # pinyin
 
-    def __init__(self, chinese: str, pinyin: str, tags: str, definitions: list):
+    -----
+    NOUN                                   # tags
+    1 go by; base on; take as the basis    # definition
+      * 凭良心说                            # example chinese
+        píng liángxīn shuō                 # example pinyin
+        in all fairness                    # example english
+      * 凭票付款                            # example (2)
+        Píng piào fùkuǎn
+        payable to bearer
+
+    -----
+    VERB                                   # tags (2)
+    1 lean on; lean against
+      * 凭几
+        píngjī
+        lean on a small table
+    '''
+
+    def __init__(self, chinese: str, pinyin: str, tags_and_definitions: list):
+        # tags_and_definitions: ['pleco_tag', [...defs]]
         self.chinese = chinese
         self.pinyin = pinyin
-        self.tags = tags
-        self.definitions = definitions
+        self.tags_and_definitions = tags_and_definitions
 
     @staticmethod
     def from_string(line):
         match = re.match(line_pattern, line)
-        definition_and_examples = match.group(
-            'definition_and_examples')
-        definitions = Phrase._extract_definitions(definition_and_examples)
+        all_meanings = match.group('all_meanings')
+        tags_and_definitions = Phrase._extract_tags_and_definitions(all_meanings)
         return Phrase(
             match.group('chinese'),
             convert_alphanum_to_pinyin(match.group('pinyin')),
-            ', '.join(match.group('tags').split()),
-            definitions,
+            tags_and_definitions,
         )
 
     @staticmethod
-    def _extract_definitions(definition_and_examples_str: str):
-        # TODO: cards with multiple types (can be used as a noun / verb / adjective in different ways, etc)
-        definition_and_examples_str = definition_and_examples_str.strip()
-        if definition_and_examples_str.startswith('1 '):
-            definitions = []
-            for match in re.finditer(single_definition_pattern, definition_and_examples_str):
-                string = match.group(0)[2:]  # remove the number
-                definitions.append(Definition.from_string(string))
-        elif ' 1 ' in definition_and_examples_str:
-            first_num_i = definition_and_examples_str.find(' 1 ')
-            definitions = [Definition.from_string(
-                definition_and_examples_str[:first_num_i])]
-            for match in re.finditer(single_definition_pattern, definition_and_examples_str):
-                string = match.group(0)[2:]  # remove the number
-                definitions.append(Definition.from_string(string))
-        else:
-            definitions = [Definition.from_string(definition_and_examples_str)]
-        return definitions
+    def _extract_tags_and_definitions(all_meanings: str):
+        tags_and_definitions = []
+        for match in re.finditer(tags_and_definition_pattern, all_meanings):
+            tags = ', '.join(match.group('tags').strip().split())
+            def_and_exs_str = match.group('definitions_and_examples')
+            all_meanings = def_and_exs_str.strip()
+            if def_and_exs_str.startswith('1 '):
+                definitions = []
+                for match in re.finditer(single_definition_pattern, def_and_exs_str):
+                    string = match.group(0)[2:]  # remove the number
+                    definitions.append(Definition.from_string(string))
+            elif ' 1 ' in def_and_exs_str:
+                first_num_i = def_and_exs_str.find(' 1 ')
+                definitions = [Definition.from_string(
+                    def_and_exs_str[:first_num_i])]
+                for match in re.finditer(single_definition_pattern, def_and_exs_str):
+                    string = match.group(0)[2:]  # remove the number
+                    definitions.append(Definition.from_string(string))
+            else:
+                definitions = [Definition.from_string(def_and_exs_str)]
+            tags_and_definitions.append([tags, definitions])
+        if len(tags_and_definitions) == 0:
+            tags_and_definitions.append(['', [Definition.from_string(all_meanings)]])
+        return tags_and_definitions
 
     def front_html(self):
         return html_templates.CARD_FRONT.format(chinese=self.chinese)
 
     def back_html(self):
+        tags_and_definitions_formatted = ''
+        for tags, definitions in self.tags_and_definitions:
+            tags_and_definitions_formatted += html_templates.CARD_TAGS_AND_DEFINITIONS.format(
+                tags=tags,
+                definitions='\n'.join(defn.to_html(i + 1, self.chinese) for i, defn in enumerate(definitions))
+            )
         return html_templates.CARD_BACK.format(
             chinese=self.chinese,
             pinyin=self.pinyin,
-            tags=self.tags,
-            definitions='\n'.join(definition.to_html(i + 1, self.chinese)
-                                  for i, definition in enumerate(self.definitions)),
+            tags_and_definitions=tags_and_definitions_formatted
         )
 
     def __repr__(self):
         return str(self.__dict__)
-        # definitions_str = '\n\t'.join(str(definition)
-        #                               for definition in self.definitions)
-        # return f'chinese: {self.chinese}\npinyin: {self.pinyin}\ntags: {self.tags}\ndefinitions: \n\t{definitions_str}'

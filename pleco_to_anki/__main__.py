@@ -86,6 +86,6 @@ if __name__ == '__main__':
     os.chdir(wd)
     args = sys.argv[1:]
     if len(args) != 2:
-        print('Usage: python3 pleco_to_anki.py <pleco_export_file> <deck_name>')
+        print('Usage: python3 pleco_to_anki.py <pleco_file> <deck_name>')
     else:
         format_pleco_export(*args)
