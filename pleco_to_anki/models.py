@@ -28,6 +28,7 @@ class Example:
             english_start = re.search(english_defn_pattern, string).start()
             return Example(string[:chinese_end], string[chinese_end:english_start], string[english_start:])
         except:
+            # TODO: fix these errors
             print(f'ERROR <{string}>')
 
     def to_html(self, main_chinese):

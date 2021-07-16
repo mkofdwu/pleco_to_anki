@@ -5,6 +5,7 @@ import genanki
 
 from constants import css
 from models import Phrase
+from existing_phrases import get_existing_phrases
 
 
 def save_extracted_phrases_as_json(phrases):
@@ -24,23 +25,6 @@ def read_and_extract_phrases(path):
                 continue
             phrases.append(Phrase.from_string(line))
         return phrases
-
-
-def get_existing_phrases(deck_name):
-    path = f'./out/{deck_name}_existing_phrases.txt'
-    if not os.path.isfile(path):
-        return []
-    with open(path, 'r', encoding='utf-8') as f:
-        return f.read().split('\n')
-
-
-def save_existing_phrases(deck_name, phrases):
-    path = f'./out/{deck_name}_existing_phrases.txt'
-    # if os.path.isfile(path):
-    #     # save temporary file for backup
-    #     os.rename(path, f'./out/{deck_name}_existing_phrases_old.txt')
-    with open(path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(phrase.chinese for phrase in phrases))
 
 
 def format_pleco_export(path, deck_name):
@@ -76,9 +60,6 @@ def format_pleco_export(path, deck_name):
         )
         deck.add_note(note)
     genanki.Package(deck).write_to_file('out/' + deck_name + '.apkg')
-
-    # save list of generated phrases to prevent duplicates
-    save_existing_phrases(deck_name, phrases)
 
 
 if __name__ == '__main__':

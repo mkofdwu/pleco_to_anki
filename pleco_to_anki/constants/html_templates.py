@@ -1,19 +1,19 @@
-CARD_FRONT = r'''
+CARD_FRONT = r'''\
 <span class="very-large center">{chinese}</span>'''
 
-CARD_BACK = r'''
+CARD_BACK = r'''\
 <h1 class="chinese">{chinese}</h1>
 <h2>{pinyin}</h2>
 {tags_and_definitions}'''
 
-CARD_TAGS_AND_DEFINITIONS = r'''
+CARD_TAGS_AND_DEFINITIONS = r'''\
 <div class="divider"></div>
 <span class="tags">{tags}</span>
 <ol>
     {definitions}
 </ol>'''
 
-DEFINITION = r'''
+DEFINITION = r'''\
 <li>
     <span class="definition-num">{num}</span>
     <div class="definition-column">
@@ -24,7 +24,7 @@ DEFINITION = r'''
     </div>
 </li>'''
 
-EXAMPLE = r'''
+EXAMPLE = r'''\
 <li class="example">
     <div class="bullet-point"></div>
     <div class="example-column">
