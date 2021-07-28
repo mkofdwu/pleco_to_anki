@@ -31,6 +31,7 @@ def format_pleco_export(path, deck_name):
     phrases = read_and_extract_phrases(path)
     # save_extracted_phrases_as_json(phrases)
     existing_phrases = get_existing_phrases(deck_name)
+    print(f'Found {len(existing_phrases)} phrases in database')
     model = genanki.Model(
         1324780,
         name=deck_name + ' model',
@@ -67,6 +68,6 @@ if __name__ == '__main__':
     os.chdir(wd)
     args = sys.argv[1:]
     if len(args) != 2:
-        print('Usage: python3 pleco_to_anki.py <pleco_file> <deck_name>')
+        print('Usage: python3 pleco_to_anki <pleco_file> <deck_name>')
     else:
         format_pleco_export(*args)

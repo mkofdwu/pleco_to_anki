@@ -27,8 +27,13 @@ def get_existing_phrases(deck_name):
     conn = sqlite3.connect(DB_PATH)
     conn.create_collation("unicase", unicase_compare)
     cur = conn.cursor()
-    model_id = cur.execute(f'SELECT id FROM notetypes WHERE name = "{deck_name} model"').fetchone()
-    if model_id is None:
-        return ()
-    existing_phrases = sum(cur.execute(f'SELECT sfld FROM notes WHERE mid = {model_id[0]}'), ())
-    return existing_phrases
+    try:
+        model_id = cur.execute(f'SELECT id FROM notetypes WHERE name = "{deck_name} model"').fetchone()
+    except sqlite3.OperationalError:
+        print('Could not read database, please make sure Anki is closed.')
+        raise
+    else:
+        if model_id is None:
+            return ()
+        existing_phrases = sum(cur.execute(f'SELECT sfld FROM notes WHERE mid = {model_id[0]}'), ())
+        return existing_phrases
