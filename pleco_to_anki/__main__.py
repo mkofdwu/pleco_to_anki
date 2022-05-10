@@ -18,7 +18,7 @@ def save_extracted_phrases_as_json(phrases):
 
 
 def read_and_extract_phrases(path):
-    with open(path, 'r+', encoding='utf-8') as f:
+    with open(path, 'r+', encoding='utf-8-sig') as f:
         phrases = []
         for line in f.readlines():
             if line.startswith('//') or line == '\n' or line == '':
@@ -31,9 +31,9 @@ def format_pleco_export(path, deck_name):
     phrases = read_and_extract_phrases(path)
     # save_extracted_phrases_as_json(phrases)
     existing_phrases = get_existing_phrases(deck_name)
-    print(f'Found {len(existing_phrases)} phrases in database')
+    print(f'Found {len(existing_phrases)} phrases already in database')
     model = genanki.Model(
-        1324780,
+        hash(deck_name),
         name=deck_name + ' model',
         fields=[
             {'name': 'Front'},
@@ -48,7 +48,7 @@ def format_pleco_export(path, deck_name):
         ],
         css=css.CSS,
     )
-    deck = genanki.Deck(1472890, deck_name)
+    deck = genanki.Deck(hash(deck_name), deck_name)
     for phrase in phrases:
         if phrase.chinese in existing_phrases:
             continue
