@@ -1,6 +1,8 @@
 import os
 import sys
 
+from datetime import datetime
+
 import genanki
 
 from constants import css
@@ -58,6 +60,7 @@ def format_pleco_export(path, deck_name):
                 phrase.front_html(),
                 phrase.back_html()
             ],
+            tags=[str(datetime.now())],
         )
         deck.add_note(note)
     genanki.Package(deck).write_to_file('out/' + deck_name + '.apkg')
