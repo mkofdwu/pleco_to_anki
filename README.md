@@ -4,6 +4,10 @@ A simple script to format pleco flashcard exports and convert it into an anki pa
 
 <img src="./example/example.png" width="300" />
 
+## Update (20 Jan 2024)
+
+To make this script more accessible to fellow-chinese learners, I made an app that achieves the same purpose but doesnt require python or even a PC. https://github.com/mkofdwu/pleco_to_anki_app
+
 ## Usage
 
 You have to use python to run this script. Install the requirements with pip install -r requirements.txt
